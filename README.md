@@ -1,6 +1,7 @@
-Hiya! Just a fusky hybrid with a lot of talents, that I'm mostly self-thought on:
-- 💻 Front-end web developer, up-and-coming Vue.js and JavaScript developer (I'm dead)
+Hiya! Just a fusky hybrid with a lot of talents, born natively in the Philippines - I'm mostly self-thought on these specific fields:
+- 💻 Front-end web developer, beginner in Vue.js and JavaScript
 - 🎵 Indie music producer, singer/songwriter
-- 🎬 Filmmaker, veteran video editor with 6 years of experience
+- 🎬 Filmmaker, experienced video editor
+- 📸 Photography
 
-Despite being multi-talented, I do it mostly just for the fun of it! And besides, being a self-thought is fun and a painful experience to witness lol 💜
+Despite being multi-talented, I do it mostly just for the fun of it! And besides, unless you have the ambition and the passion to make something happen, being a self-thought individual is both fun and painful experience to have and it'll be worth it in the end 💜
