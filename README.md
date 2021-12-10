@@ -4,4 +4,7 @@ Hiya! Just a fusky hybrid with a lot of talents, born natively in the Philippine
 - 🎬 Filmmaker, experienced video editor
 - 📸 Photography
 
-Despite being multi-talented, I do it mostly just for the fun of it! And besides, unless you have the ambition and the passion to make something happen, being a self-thought individual is both fun and painful experience to have and it'll be worth it in the end 💜
+## I build abominations
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky)
+
+Despite being multi-talented, I do it mostly just for the fun of it! 💜
