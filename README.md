@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&layout=compact&theme=dark&langs_count=10)">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&layout=compact&hide=brainfuck&theme=dark&langs_count=10)">
 </a>
 
 Hiya! Just a fusky with a some set of skills mostly self-thought on these fields:
