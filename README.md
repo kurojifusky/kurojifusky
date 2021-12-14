@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&layout=compact&theme=dark&langs_count=10)">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&layout=compact&hide=brainfuck&theme=dark&langs_count=10)">
 </a>
 
 Hiya! 👋🦊 Am a fusky who is a self-thought front-end web developer currently learning [Vue.js](https://github.com/vuejs/vue-next) and [JavaScript](https://javascript.com) making terrible websites and other fun projects! Outside of programming, I'm also self-thought on these fields:
