@@ -1,12 +1,12 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&layout=compact&hide=brainfuck&theme=dark&langs_count=10)">
+## `welcome to my terrible profile`
+
+<a href="https://github.com/anuraghazra/github-readme-stats#readme">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&layout=compact&theme=radical&langs_count=10)">
 </a>
 
-Hiya! 👋🦊 Am a fusky who is a self-thought front-end web developer currently learning [Vue.js](https://github.com/vuejs/vue-next) and [JavaScript](https://javascript.com) making terrible websites and other fun projects! Outside of programming, I'm also self-thought on these fields:
-<ul>
-<li> 🎵 Indie music producer, singer/songwriter </li>
-<li> 🎬 Filmmaker, experienced video editor </li>
-<li> 📸 probably and a thing or two about photography </li> 
-</ul>
-
-Despite being multi-talented <s>(and a dumbass)</s>, I do it mostly just for the fun of it!
+- :philippines: 19-year-old loser from the Philippines
+- 👨‍💻 Self-thought front-end web dev learning JavaScript and Vue.js
+- [🎥 I make stupid videos](https://youtube.com/kokorohuskyproductions)
+- 🎹 Produced 2 albums that are up on [Spotify](https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl) and [Apple Music](https://music.apple.com/us/artist/kokoro-husky/1521326000)
+- 🦊 If you haven't figured it out yet: yes, my fursona is a blue-yellow fox-husky hybrid
+- 💜 A huge BTS fan
