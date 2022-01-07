@@ -8,7 +8,7 @@
 - [🎥 I make stupid videos][yt]
 - 🎹 Indie music producer with 2 albums, 1 EP, and 9 singles released on [Spotify][spoop], [Apple Music][apple], and other music platforms
 - 🎨 Other talents: tenor vocalist, awful dancer, and drawing cute furry stuff
-- 🦊 My fursona is a blue-yellow fox-husky hybrid
+- 🦊 My fursona is a blue-yellow fusky (a fox-husky hybrid)
 
 [yt]: https://youtube.com/kokorohuskyproductions
 [spoop]: https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl
