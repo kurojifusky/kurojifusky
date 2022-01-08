@@ -12,6 +12,6 @@
 * 🎹 Indie music producer with 2 albums, 1 EP, and 9 singles released on [Spotify][spoop], [Apple Music][apple], and other music platforms
 * 🦊 My fursona is a blue-yellow fusky (a fox-husky hybrid)
 
-[yt]: https://youtube.com/kokorohuskyproductions
+[yt]: https://youtube.com/skepfusky97
 [spoop]: https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl
 [apple]: https://music.apple.com/us/artist/kokoro-husky/1521326000
