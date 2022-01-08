@@ -15,3 +15,10 @@
 [yt]: https://youtube.com/skepfusky97
 [spoop]: https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl
 [apple]: https://music.apple.com/us/artist/kokoro-husky/1521326000
+<details>
+<summary>Wakatime Language thingy</summary>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=skepfusky&langs_count=16&layout=compact&theme=vue-dark&hide_border=true&show_icons=true"/>
+</p>
+</details>
+  
