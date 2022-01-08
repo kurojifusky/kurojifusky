@@ -3,7 +3,7 @@
 </a>
 
 - :philippines: 19-year-old loser from the Philippines
-- 👨‍💻 Self-taught front-end web dev learning JavaScript and Vue.js
+- 👨‍💻 Self-taught front-end web dev learning JavaScript, TypeScript, and Vue.js
 - 💻 Interested in writing Batch & PowerShell scripts (of course for dumb reasons obviously)
 - [🎥 I make stupid videos][yt]
 - 🎹 Indie music producer with 2 albums, 1 EP, and 9 singles released on [Spotify][spoop], [Apple Music][apple], and other music platforms
