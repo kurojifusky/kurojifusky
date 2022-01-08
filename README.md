@@ -5,7 +5,7 @@
   <img align="center" width="57%" src="https://github-readme-stats.vercel.app/api?username=skepfusky&theme=vue-dark&hide_border=true&show_icons=true" />
 </a>
 
-* :philippines: I'm 19-year-old hobbyist from the Philippines
+* :philippines: I'm a 19-year-old hobbyist from the Philippines
 * 👨‍💻 Self-taught front-end web dev learning JavaScript/TypeScript, and Vue.js
 * 💻 Interested in writing Batch & PowerShell scripts (of course for dumb reasons obviously)
 * [🎥 I make stupid videos][yt]
