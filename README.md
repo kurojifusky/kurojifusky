@@ -8,9 +8,8 @@
 * :philippines: I'm a 19-year-old hobbyist from the Philippines
 * 👨‍💻 Self-taught front-end web dev learning JavaScript/TypeScript, and Vue.js
 * 💻 Interested in writing Batch & PowerShell scripts (of course for dumb reasons obviously)
-* [🎥 I make stupid videos][yt]
+* [🎥 I make stupid, yet high-quality videos][yt]
 * 🎹 Indie music producer with 2 albums, 1 EP, and 9 singles released on [Spotify][spoop], [Apple Music][apple], and other music platforms
-* 🎨 Other talents: tenor vocalist, awful dancer, and photography
 * 🦊 My fursona is a blue-yellow fusky (a fox-husky hybrid)
 
 [yt]: https://youtube.com/kokorohuskyproductions
