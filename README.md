@@ -18,6 +18,6 @@
 <details>
 <summary>Wakatime Language Stats</summary>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=skepfusky&langs_count=16&&hide_title=true&layout=compact&theme=vue-dark&hide_border=true&show_icons=true"/>
+    <img width="57%" src="https://github-readme-stats.vercel.app/api/wakatime?username=skepfusky&langs_count=16&&hide_title=true&layout=compact&theme=vue-dark&hide_border=true&show_icons=true"/>
 </p>
 </details>
