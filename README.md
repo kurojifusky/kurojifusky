@@ -16,7 +16,7 @@
 [spoop]: https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl
 [apple]: https://music.apple.com/us/artist/kokoro-husky/1521326000
 <details>
-<summary>Wakatime Language Stats</summary>
+<summary><b>Wakatime Language Stats</b></summary>
 <p align="center">
     <img width="57%" src="https://github-readme-stats.vercel.app/api/wakatime?username=skepfusky&langs_count=16&&hide_title=true&layout=compact&theme=vue-dark&hide_border=true&show_icons=true"/>
 </p>
