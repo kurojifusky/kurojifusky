@@ -15,7 +15,9 @@
 <details>
 <summary><b>Wakatime Language Stats</b></summary>
 <p align="center">
+  <a href="https://wakatime.com/@skepfusky">
     <img width="57%" src="https://github-readme-stats.vercel.app/api/wakatime?username=skepfusky&langs_count=16&&hide_title=true&layout=compact&theme=vue-dark&hide_border=true&show_icons=true"/>
+  </a>
 </p>
 </details>
 
