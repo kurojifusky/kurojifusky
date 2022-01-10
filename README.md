@@ -5,6 +5,22 @@
   <img align="center" width="57%" src="https://github-readme-stats.vercel.app/api?username=skepfusky&theme=vue-dark&hide_border=true&show_icons=true" />
 </a>
 
+<p align="center">
+  <br>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-5194f0?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white&color=bb3eed"/>
+  <img src="https://img.shields.io/badge/-Windows-5194f0?style=flat-square&logo=windows&logoColor=white&color=bb3eed"/>
+  <img src="https://img.shields.io/badge/-Linux-5194f0?style=flat-square&logo=linux&logoColor=white&color=bb3eed"/>
+  <img src="https://img.shields.io/badge/-HTML5-5194f0?style=flat-square&logo=html5&logoColor=white&color=bb3eed"/>
+  <img src="https://img.shields.io/badge/-SCSS-5194f0?style=flat-square&logo=sass&logoColor=white&color=bb3eed"/>
+  <img src="https://img.shields.io/badge/-Pug-5194f0?style=flat-square&logo=pug&logoColor=white&color=bb3eed"/>
+  <img src="https://img.shields.io/badge/-Vue.js-5194f0?style=flat-square&logo=vue.js&logoColor=white&color=bb3eed"/>
+  <img src="https://img.shields.io/badge/-Typescript-5194f0?style=flat-square&logo=typescript&logoColor=white&color=bb3eed"/>
+  <img src="https://img.shields.io/badge/-JavaScript-5194f0?style=flat-square&logo=javascript&logoColor=white&color=bb3eed"/>
+  <img src="https://img.shields.io/badge/-Node.js-5194f0?style=flat-square&logo=node.js&logoColor=white&color=bb3eed"/>
+  <img src="https://img.shields.io/badge/-PowerShell-5194f0?style=flat-square&logo=powershell&logoColor=white&color=bb3eed"/>
+  <img src="https://img.shields.io/badge/-Bash-5194f0?style=flat-square&logo=gnu-bash&logoColor=white&color=bb3eed"/>
+</p>
+
 * :philippines: I'm a 19-year-old hobbyist from the Philippines
 * 👨‍💻 Self-taught front-end web dev learning JavaScript/TypeScript, and Vue.js
 * 💻 Interested in writing Batch & PowerShell scripts (of course for dumb reasons obviously)
