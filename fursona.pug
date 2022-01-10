@@ -13,12 +13,11 @@ html(lang="en")
       section
         h2 Color palettes
         #palette-grid-layout
-          mixin colorf(title, hex)
+          mixin colorf(color, hex_val, rgb_val)
           .palette
-            h2=title
-            span=hex
-            if block
-              block
+            h2=color
+            span=hex_val
+            span=rgb_val
           +colorf('Yellow', 'Sum color here')
       section
         h2 Personality traits and shit
