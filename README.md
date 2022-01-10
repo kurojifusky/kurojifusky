@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&hide_title=true&layout=compact&theme=vue-dark&langs_count=10&hide_border=true&show_icons=true&include_all_commits=true&line_height=21" />
+  <img align="center" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&hide_title=true&layout=compact&theme=vue-dark&langs_count=10&hide_border=true&show_icons=true&include_all_commits=true&line_height=21" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="57%" src="https://github-readme-stats.vercel.app/api?username=skepfusky&theme=vue-dark&hide_border=true&show_icons=true" />
