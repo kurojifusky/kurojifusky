@@ -28,7 +28,7 @@
 * [🎥 I make stupid, yet high-quality videos][yt]
 * 🎹 Indie music producer with 2 albums, 1 EP, and 9 singles released on [Spotify][spoop], [Apple Music][apple], and other music platforms
 * 🦊 My fursona is a blue-yellow fusky (a fox-husky hybrid)
-* 💜 I'm basically a *jack-of-all-trades* or a *gifted one* -- meaning I can code websites, edit videos, produce music whenever and whatever I feel like it, usually in my spare time, or at least have the motivation to do so >w<
+* 💜 I'm basically a *jack-of-all-trades* or a *gifted one* -- because I can code websites, edit videos, produce music whenever and whatever I feel like it, usually in my spare time, or at least have the motivation to do so >w<
 
 <details>
 <summary><b>Wakatime Language Stats</b></summary>
