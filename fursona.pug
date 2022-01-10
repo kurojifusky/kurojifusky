@@ -4,12 +4,13 @@ html(lang="en")
     meta(http-equiv="X-UA-Compatible", content="IE=edge")
     meta(name="viewport", content="width=device-width, initial-scale=1.0")
     title Skepfusky Fursona Info & L O R E
+    link(rel="stylesheet", href="styles.css")
   body
     //- put or draw an image of your ref sheet here you lazy crap
-    #content-wrapper
+    main(role="main")
       section
-        img(src="", alt="alt")
-      hr
+        img(src="", role="img", alt="alt", aria-label="alt")
+      hr(role="separator")
       section
         h2 Color palettes
         #palette-grid-layout
