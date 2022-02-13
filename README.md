@@ -8,6 +8,12 @@
     <img width="60.9%" src="https://github-readme-stats.vercel.app/api?username=skepfusky&border_radius=0&theme=vue-dark&hide_border=true&show_icons=true&hide_title=true" />
   </a>
 </p>
+
+## Languages/frameworks I work with
 <p align="center">
-  
+  <img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+  <img width="30" src="https://raw.githubusercontent.com/github/explore/42198dc9113595ddd22cc12771bb719c8cf08b67/topics/svelte/svelte.png">
+
 </p>
