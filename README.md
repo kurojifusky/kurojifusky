@@ -5,7 +5,7 @@
 - 🎵 Indie musician with a next EP in the works!
 - 🎥 Experienced video editor/Filmmaker
 
-**Languages, frameworks, and tools**
+### Languages, frameworks, and tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
