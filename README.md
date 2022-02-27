@@ -2,6 +2,7 @@
 
 - 👨‍💻 Self-taught front-end web developer working with the Vue ecosystem (would go full stack soon)
 - 📲 Web and UI/UX designer
+- 🦊 I draw cute floofs in my freetime or get burnt out coding
 - 🎵 Indie musician with a next EP in the works!
 - 🎥 Experienced video editor/Filmmaker
 
