@@ -6,11 +6,11 @@
 - 🎵 Indie musician with a next EP in the works!
 - 🎥 Experienced video editor/Filmmaker
 
-### Projects I'm currently working on
+### Projects I'm working on
 - <a href="https://www.github.com/skepfusky/skepfusky.net"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> My Shitty Personal Site</a>
 - <a href="https://www.github.com/skepfusky/pandapaco-art-statistics"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> Paco Drawing Analytics Site</a>
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> **Art and Biro Reworked**
-- <a href="https://www.github.com/skepfusky/furland"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> Furland</a>
+- <a href="https://www.github.com/skepfusky/furland"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"> Furland</a>
+- <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png"> **Art and Biro Reworked**
 
 ### Languages, frameworks, and tools
 
