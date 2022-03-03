@@ -8,8 +8,8 @@
 
 ### Projects I'm working on
 - <a href="https://www.github.com/skepfusky/skepfusky.net"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> My Shitty Personal Site</a>
-- <a href="https://www.github.com/skepfusky/pandapaco-art-statistics"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> Paco Drawing Analytics Site</a>
-- <a href="https://www.github.com/skepfusky/furland"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"> Furland</a>
+- <a href="https://www.github.com/skepfusky/pandapaco-art-statistics"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> Paco Drawing Analytics Site</a>
+- <a href="https://www.github.com/skepfusky/furland"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> Furland</a>
 - <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png"> **Art and Biro Reworked**
 
 ### Languages, frameworks, and tools
