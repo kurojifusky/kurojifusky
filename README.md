@@ -8,18 +8,18 @@
 - 🦊 I draw cute floofs in my freetime or get burnt out coding
 
 ### Some of my Projects I've been working on
-- <a href="https://www.github.com/skepfusky/skepfusky.net"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> My Shitty Personal Site</a>
-- <a href="https://www.github.com/skepfusky/pandapaco-art-statistics"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> Paco Drawing Analytics Site</a>
-- <a href="https://www.github.com/skepfusky/furland"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> Furland</a>
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png"> **Art and Biro Reworked**
-- [Majira Strawberry VS Code Theme](https://www.github.com/skepfusky/majira-strawberry-vscode-theme)
+- <a href="https://www.github.com/skepfusky/skepfusky.net"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">&nbsp;My Shitty Personal Site</a>
+- <a href="https://www.github.com/skepfusky/pandapaco-art-statistics"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://github.com/skepfusky/skepfusky/blob/master/Python-logo-wikimedia.svg?raw=true">&nbsp;Paco Drawing Analytics Site</a>
+- <a href="https://www.github.com/skepfusky/furland"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png">&nbsp;Furland</a>
+- <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png">&nbsp;**Art and Biro Reworked**
+- <a href="https://www.github.com/skepfusky/majira-strawberry-vscode-theme"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">&nbsp;Majira Strawberry VS Code Theme</a>
 
 ### Languages, frameworks, and tools
 
 <code><img height="42" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-basic/visual-basic.png"></code>
 <code><img height="42" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="42" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="42" src="https://github.com/skepfusky/skepfusky/blob/master/Python-logo-wikimedia.svg?raw=true"></code>
 <code><img height="42" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
 <code><img height="42" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png"></code>
 <code><img height="42" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
