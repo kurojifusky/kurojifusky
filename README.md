@@ -11,8 +11,8 @@
 - <a href="https://www.github.com/skepfusky/skepfusky.net"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">&nbsp;My Shitty Personal Site</a>
 - <a href="https://www.github.com/skepfusky/pandapaco-art-statistics"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://github.com/skepfusky/skepfusky/blob/master/Python-logo-wikimedia.svg?raw=true">&nbsp;Paco Drawing Analytics Site</a>
 - <a href="https://www.github.com/skepfusky/furland"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png">&nbsp;Furland</a>
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png">&nbsp;**Art and Biro Reworked**
 - <a href="https://www.github.com/skepfusky/majira-strawberry-vscode-theme"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">&nbsp;Majira Strawberry VS Code Theme</a>
+- <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png">&nbsp;**Art and Biro Reworked**
 
 ### Languages, frameworks, and tools
 
