@@ -8,8 +8,9 @@
 - 🦊 I draw cute floofs in my freetime or get burnt out coding
 
 ### Some of my Projects I've been working on
-- <a href="https://www.github.com/skepfusky/skepfusky.net"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">&nbsp;My Shitty Personal Site</a>
-- <a href="https://www.github.com/skepfusky/majira-strawberry-vscode-theme"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">&nbsp;Majira Strawberry VS Code Theme</a>
+- <a href="https://www.github.com/skepfusky/skepfusky.net"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="16" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">&nbsp;My Shitty Personal Site</a>
+- <a href="https://www.github.com/skepfusky/pandapaco-art-statistics"><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png">&nbsp;Paco Drawing Analytics Site</a>
+- [Majira Strawberry VS Code Theme](https://www.github.com/skepfusky/majira-strawberry-vscode-theme)
 
 ### Languages, frameworks, and tools
 
