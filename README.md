@@ -1,7 +1,7 @@
 ## Just a typical floofy boi writing horrible code 🦊
 
 - 👨‍💻 Self-taught front-end web developer working with the Vue ecosystem (would go full stack soon)
-- ✨ Currently learning Python, TypeScript, and Svelte
+- ✨ Currently learning Svelte, Python, TypeScript, MongoDB, Firebase, and basic SQL shit
 - 📲 Web and UI/UX designer
 - 🎵 Indie musician with a next EP in the works!
 - 🎥 Experienced video editor/Filmmaker
