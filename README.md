@@ -8,6 +8,13 @@ Welcome to my terrible GitHub profile 👋
 - 🎵 Indie musician with a next EP in the works!
 - 🎥 Experienced video editor/Filmmaker
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&hide_title=true&layout=compact&theme=vue-dark&langs_count=10&hide_border=true&show_icons=true&include_all_commits=true&line_height=16">
+  </a>
+  <img width="535" src="https://github-readme-streak-stats.herokuapp.com/?user=skepfusky&theme=vue-dark&hide_border=true" alt="skepfusky">
+</p>
+
 ### Some of my projects I've been working on
 - <a href="https://www.github.com/skepfusky/The-Fusky-Corner"><img height="16" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png"> <img height="16" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">&nbsp;The Fusky Corner</a>
 - <a href="https://www.github.com/skepfusky/skepfusky.net"><img height="16" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="16" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">&nbsp;My Shitty Personal Site</a>
