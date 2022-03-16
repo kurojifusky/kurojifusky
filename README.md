@@ -16,12 +16,6 @@ Welcome to my terrible GitHub profile 👋
   <img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=skepfusky&theme=vue-dark&hide_border=true" alt="skepfusky">
 </p>
 
-## Some of my projects I've been working on
-- <a href="https://www.github.com/skepfusky/The-Fusky-Corner"><img height="16" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png"> <img height="16" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">&nbsp;The Fusky Corner</a>
-- <a href="https://www.github.com/skepfusky/skepfusky.net"><img height="16" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"> <img height="16" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">&nbsp;My Shitty Personal Site</a>
-- <a href="https://www.github.com/skepfusky/pandapaco-art-statistics"><img height="16" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png">&nbsp;Paco Drawing Analytics Site</a>
-- <a href="https://www.github.com/skepfusky/majira-strawberry-vscode-theme"><img height="16" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png">&nbsp;Majira Strawberry VS Code Theme</a>
-
 ## Languages, frameworks, and tools I use
 
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
