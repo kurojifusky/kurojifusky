@@ -3,7 +3,7 @@
 Welcome to my terrible GitHub profile 👋
 
 - 👨‍💻 Self-taught full-stack web developer working with the Vue and Svelte ecosystem (would go full stack soon)
-- ✨ Currently learning Svelte, Python, TypeScript, MongoDB, Firebase, and basic SQL shit
+- ✨ Currently learning Svelte, Python, TypeScript, MongoDB, Firebase, and basic database fundementals
 - 📲 Web and UI/UX designer
 - 🎵 Indie musician with a next EP in the works!
 - 🎥 Experienced video editor/Filmmaker
@@ -30,10 +30,6 @@ Welcome to my terrible GitHub profile 👋
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png"></code>
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/pycharm/pycharm.png"></code>
-
-**Planning to learn these in the future**
-
 <code><img height="44" src="https://github.com/skepfusky/skepfusky/blob/master/Python-logo-wikimedia.svg"></code>
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
-<code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
