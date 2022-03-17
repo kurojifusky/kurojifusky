@@ -20,10 +20,10 @@ Welcome to my terrible GitHub profile 👋
 
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="44" src="https://github.com/skepfusky/skepfusky/blob/master/Python-logo-wikimedia.svg"></code>
+<code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
+<code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png"></code>
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/pycharm/pycharm.png"></code>
-<code><img height="44" src="https://github.com/skepfusky/skepfusky/blob/master/Python-logo-wikimedia.svg"></code>
-<code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-<code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
