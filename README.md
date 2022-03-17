@@ -26,4 +26,3 @@ Welcome to my terrible GitHub profile 👋
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png"></code>
 <code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/pycharm/pycharm.png"></code>
