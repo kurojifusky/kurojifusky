@@ -1,28 +1,38 @@
 # Just a typical floofy boi writing horrible code 🦊
 
-Welcome to my terrible GitHub profile 👋
+Hi! Welcome to my terrible GitHub profile 👋
 
-- 👨‍💻 Self-taught full-stack web developer working with the Vue and Svelte ecosystem (would go full stack soon)
-- ✨ Currently learning Svelte, Python, TypeScript, MongoDB, Firebase, and basic database fundementals
+- 👨‍💻 Self-taught full-stack web developer working with the Astro, Vue, and Svelte ecosystem (would go full stack soon)
+- ✨ Currently learning Svelte, Python, TypeScript, MongoDB, Supabase, and basic database stuff
 - 📲 Web and UI/UX designer
 - 🎵 Indie musician with a next EP in the works!
 - 🎥 Experienced video editor/Filmmaker
 
-## Pointless stats for bragging
+<h3>
+<details>
+<summary>Pointless shit</summary>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="348" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&hide_title=true&layout=compact&theme=vue-dark&langs_count=10&hide_border=true&show_icons=true&include_all_commits=true&line_height=16">
   </a>
   <img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=skepfusky&theme=vue-dark&hide_border=true" alt="skepfusky">
+  </p>
+</details>
+<details>
+<summary>Stuff I use</summary>
+<p align="center">
+  <strong>DevOps & IDEs</strong><br>
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=linux,bash,git,vscode,visualstudio,vim"></a>
+  <br><br>
+  <strong>Languages&emsp;&emsp;&emsp;&emsp;</strong><strong>&emsp;&emsp;Design</strong><br>
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=js,ts,py"></a>
+  &emsp;
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=ps,ai,pr,ae&perline=4"></a>
+  <br><br>
+  <strong>Front-end&emsp;&emsp;&emsp;</strong><strong>&emsp;&emsp;&emsp;&emsp;Back-end</strong><br>
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=html,pug,css,sass,vue,nuxtjs,svelte,astro&perline=4"></a>
+  &emsp;
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,graphql,supabase,redis&perline=3"></a>
 </p>
-
-## Languages, frameworks, and tools I use
-
-<code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="44" src="https://github.com/skepfusky/skepfusky/blob/master/Python-logo-wikimedia.svg"></code>
-<code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-<code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
-<code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
-<code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png"></code>
-<code><img height="44" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
+  </details>
+</h3>
