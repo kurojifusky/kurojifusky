@@ -2,15 +2,15 @@
 
 Hi! Welcome to my terrible GitHub profile 👋
 
-- 👨‍💻 Self-taught full-stack web developer working with the Astro, Vue, and Svelte ecosystem (would go full stack soon)
-- ✨ Currently learning Svelte, Python, TypeScript, MongoDB, Supabase, and basic database stuff
+- 👨‍💻 Self-taught full-stack web developer working with Astro, Vue, and Svelte ecosystems (would go full stack soon)
+- ✨ Currently learning Python, TypeScript, MongoDB, Supabase, and basic database stuff
 - 📲 Web and UI/UX designer
-- 🎵 Indie musician with a next EP in the works!
-- 🎥 Experienced video editor/Filmmaker
+- 🎵 Indie musician with my next EP, Recursion, in the works!
+- 🎥 Seasoned video editor/filmmaker
 
 <h3>
 <details>
-<summary>Pointless shit</summary>
+<summary>📊 View stats</summary>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="348" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&hide_title=true&layout=compact&theme=vue-dark&langs_count=10&hide_border=true&show_icons=true&include_all_commits=true&hide=json&line_height=16">
@@ -19,7 +19,7 @@ Hi! Welcome to my terrible GitHub profile 👋
   </p>
 </details>
 <details>
-<summary>Stuff I use</summary>
+<summary>🧑‍💻 View the stuff I use</summary>
 <p align="center">
   <strong>DevOps & IDEs</strong><br>
   <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=linux,bash,git,vscode,visualstudio,vim"></a>
@@ -34,5 +34,5 @@ Hi! Welcome to my terrible GitHub profile 👋
   &emsp;
   <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,graphql,supabase,redis&perline=3"></a>
 </p>
-  </details>
+</details>
 </h3>
