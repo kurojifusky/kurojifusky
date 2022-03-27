@@ -17,6 +17,7 @@ Just a typical floofy boi writing horrible code 🦊
   </p>
 
 ## 🧑‍💻 Stuff I use
+<h3>
 <p align="center">
   <strong>DevOps & IDEs</strong><br>
   <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=linux,bash,git,vscode,visualstudio,vim"></a>
@@ -31,3 +32,4 @@ Just a typical floofy boi writing horrible code 🦊
   &emsp;
   <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,graphql,supabase,redis&perline=3"></a>
 </p>
+</h3>
