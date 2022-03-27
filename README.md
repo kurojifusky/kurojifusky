@@ -8,7 +8,7 @@ Just a typical floofy boi writing horrible code 🦊
 - 🎵 Indie musician with my next EP, Recursion, in the works!
 - 🎥 Seasoned video editor/filmmaker
 
-<h3>📊 View stats</h3>
+## 📊 Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="348" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&hide_title=true&layout=compact&theme=vue-dark&langs_count=10&hide_border=true&show_icons=true&include_all_commits=true&hide=json&line_height=16">
@@ -16,7 +16,7 @@ Just a typical floofy boi writing horrible code 🦊
   <img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=skepfusky&theme=vue-dark&hide_border=true" alt="skepfusky">
   </p>
 
-<h3>🧑‍💻 View the stuff I use</h3>
+## 🧑‍💻 Stuff I use
 <p align="center">
   <strong>DevOps & IDEs</strong><br>
   <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=linux,bash,git,vscode,visualstudio,vim"></a>
