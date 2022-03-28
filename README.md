@@ -28,7 +28,7 @@ Just a typical floofy boi writing horrible code 🦊
   <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=ps,ai,pr,ae&perline=4"></a>
   <br><br>
   <strong>Front-end&emsp;&emsp;&emsp;</strong><strong>&emsp;&emsp;&emsp;&emsp;Back-end</strong><br>
-  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=html,pug,css,sass,vue,nuxtjs,svelte,astro&perline=4"></a>
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=html,css,sass,vue,nuxtjs,svelte,astro&perline=4"></a>
   &emsp;
   <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,graphql,supabase,redis&perline=3"></a>
 </p>
