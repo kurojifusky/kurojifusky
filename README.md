@@ -1,11 +1,17 @@
 # Hi! Welcome to my terrible GitHub profile 👋
 
-- 🦊 Just some 20-year-old fox-husky dude from the Philippines writing garbage code
-- 👨‍💻 Self-taught front-end web developer working with Astro, React, Vue, and Svelte ecosystems (probably would go full stack soon)
-- ✨ Currently learning Go, MongoDB, and Supabase
+- 🦊 Just some 20-year-old fox-husky dude from the Philippines lol
+- 👨‍💻 Self-taught front-end web developer working with the Vue ecosystem
+- ✨ Currently learning MongoDB, and Supabase
 - 📲 Web and UI/UX designer
 - 🎵 Self-produced indie music artist with my next EP, Recursion, in the works!
 - 🎥 Seasoned video editor/filmmaker
+
+## 🧑‍💻 Tech Stack
+<p align="center">
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=js,ts,py,sass,vue,nuxt,supabase,mongodb,prisma,cloudflare"></a><br>
+  <b><a href="https://stackshare.io/skepfusky/skepfusky-personal-stack">full crappy stack @ stackshare.io</a></b>
+</p>
 
 ## 📊 Stats
 <p align="center">
@@ -14,21 +20,3 @@
   </a>
   <img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=skepfusky&theme=vue-dark&hide_border=true" alt="skepfusky">
 </p>
-
-## 🧑‍💻 Stuff I use
-<h3>
-<p align="center">
-  <strong>DevOps & IDEs</strong><br>
-  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=bash,vscode,vim"></a>
-  <br><br>
-  <strong>Languages&emsp;&emsp;&emsp;&emsp;</strong><strong>&emsp;&emsp;Design</strong><br>
-  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=js,ts,py"></a>
-  &emsp;
-  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=ps,ai,pr,ae&perline=4"></a>
-  <br><br>
-  <strong>Front-end&emsp;&emsp;&emsp;</strong><strong>&emsp;&emsp;&emsp;&emsp;Back-end</strong><br>
-  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=html,css,sass,vue,nuxtjs,svelte,astro&perline=4"></a>
-  &emsp;
-  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,graphql,supabase,redis&perline=3"></a>
-</p>
-</h3>
