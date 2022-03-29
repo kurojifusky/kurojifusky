@@ -19,7 +19,7 @@
 <h3>
 <p align="center">
   <strong>DevOps & IDEs</strong><br>
-  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=linux,bash,git,vscode,visualstudio,vim"></a>
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=bash,vscode,vim"></a>
   <br><br>
   <strong>Languages&emsp;&emsp;&emsp;&emsp;</strong><strong>&emsp;&emsp;Design</strong><br>
   <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=js,ts,py"></a>
