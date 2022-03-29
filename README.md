@@ -1,11 +1,10 @@
 # Hi! Welcome to my terrible GitHub profile 👋
 
-Just a typical floofy boi writing horrible code 🦊
-
-- 👨‍💻 Self-taught full-stack web developer working with Astro, Vue, and Svelte ecosystems (would go full stack soon)
-- ✨ Currently learning Python, TypeScript, MongoDB, and Supabase
+- 🦊 Just some 20-year-old fox-husky dude from the Philippines writing garbage code
+- 👨‍💻 Self-taught front-end web developer working with Astro, React, Vue, and Svelte ecosystems (probably would go full stack soon)
+- ✨ Currently learning Go, MongoDB, and Supabase
 - 📲 Web and UI/UX designer
-- 🎵 Indie musician with my next EP, Recursion, in the works!
+- 🎵 Self-produced indie music artist with my next EP, Recursion, in the works!
 - 🎥 Seasoned video editor/filmmaker
 
 ## 📊 Stats
