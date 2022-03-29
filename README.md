@@ -1,7 +1,7 @@
 # Hi! Welcome to my terrible GitHub profile 👋
 
 - 🦊 Just some 20-year-old fox-husky dude from the Philippines lol
-- 👨‍💻 Self-taught front-end web developer working with the Vue ecosystem
+- 👨‍💻 Self-taught front-end  web developer working with the Vue ecosystem (going full-stack this year doe)
 - ✨ Currently learning MongoDB, and Supabase
 - 📲 Web and UI/UX designer
 - 🎵 Self-produced indie music artist with my next EP, Recursion, in the works!
@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 Tech Stack
 <p align="center">
-  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=js,ts,py,sass,vue,nuxt,supabase,mongodb,prisma,cloudflare"></a><br>
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=sass,tailwind,js,ts,vue,nuxt,py,django,supabase,mongodb,prisma,cloudflare&perline=6"></a><br>
   <b><a href="https://stackshare.io/skepfusky/skepfusky-personal-stack">full crappy stack @ stackshare.io</a></b>
 </p>
 
