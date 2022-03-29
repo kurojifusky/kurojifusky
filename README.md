@@ -9,8 +9,8 @@
 
 ## 🧑‍💻 Tech Stack
 <p align="center">
-  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=sass,tailwind,js,ts,vue,nuxt"></a>&nbsp;
-  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=py,django,supabase,mongodb,prisma,cloudflare"></a>
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=js,ts,py,sass,tailwind,vue"></a>&nbsp;
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=nuxt,supabase,mongodb,prisma,cloudflare"></a>
   <br>
   <b><a href="https://stackshare.io/skepfusky/skepfusky-personal-stack">full crappy stack @ stackshare.io</a></b>
 </p>
