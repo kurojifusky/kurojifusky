@@ -1,18 +1,26 @@
 # Hi! Welcome to my terrible GitHub profile 👋
 
 - 🦊 Just some 20-year-old fox-husky dude from the Philippines lol
-- 👨‍💻 Self-taught front-end  web developer working with the Vue ecosystem (going full-stack this year doe)
+- 👨‍💻 Self-taught front-end web developer working with the React & Vue ecosystem (going full-stack this year doe)
 - ✨ Currently learning MongoDB, and Supabase
 - 📲 Web and UI/UX designer
-- 🎵 Self-produced indie music artist with my next EP, Recursion, in the works!
+- 🎵 Self-produced indie music artist
 - 🎥 Seasoned video editor/filmmaker
 
 ## 🧑‍💻 Tech Stack
+
+
 <p align="center">
-  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=js,ts,py,sass,tailwind,vue"></a>&nbsp;
-  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=nuxt,supabase,mongodb,prisma,cloudflare"></a>
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=js,ts,py,sass,tailwind,react,next"></a>&nbsp;
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=vue,nuxt,supabase,mongodb,prisma,cloudflare"></a>
   <br>
   <b><a href="https://stackshare.io/skepfusky/skepfusky-personal-stack">full crappy stack @ stackshare.io</a></b>
+</p>
+
+<h3 align="center">Design</h3>
+
+<p align="center">
+<a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=figma,ps,pr,ae"></a>
 </p>
 
 ## 📊 Stats
