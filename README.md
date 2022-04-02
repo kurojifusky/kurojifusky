@@ -7,8 +7,17 @@
 - 🎵 Self-produced indie music artist
 - 🎥 Seasoned video editor/filmmaker
 
-## 🧑‍💻 Tech Stack
+## Projects
 
+| **Projects**                                                                  | **Framework**                  |
+|-------------------------------------------------------------------------------|--------------------------------|
+| [MyFursona](https://github.com/MyFursona-Project/MyFursona)                   | Next.js + TypeScript           |
+| [Searchpets](https://github.com/MyFursona-Project/searchpets)                 | Next.js + TypeScript, Tailwind |
+| [Plainrock124 Website](https://github.com/skepfusky/plainrock124-website)     | Next.js + TypeScript, Tailwind |
+| [Panda Paco Art Stats](https://github.com/OpenFurs/pandapaco-art-statistics)  | Vue 3                          |
+| [Fandom Wiki Bar](https://github.com/skepfusky/Fandom-wiki-contributions-bar) | Svelte                         |
+
+## 🧑‍💻 Tech Stack
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=js,ts,py,sass,tailwind,react,next"></a>&nbsp;
