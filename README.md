@@ -9,12 +9,12 @@
 
 ## Projects
 
-| **Project** | **Description** | **Framework** |
+| **Project** | **Description** | **Technologies** |
 |---|---|---|
-| [Panda Paco Art Stats](https://github.com/OpenFurs/pandapaco-art-statistics) | Shows drawing stats from pandapaco | ![](https://img.shields.io/badge/-Vue.js-5194f0?style=flat&logo=vue.js&color=fff) ![](https://img.shields.io/badge/-Sass-5194f0?style=flat&logo=sass&logoColor=fff&color=cc6699) |
-| [MyFursona](https://github.com/MyFursona-Project/MyFursona) | Lets users store and create their fursonas | ![](https://img.shields.io/badge/-Next.js-5194f0?style=flat&logo=next.js&color=000) ![](https://img.shields.io/badge/-TypeScript-5194f0?style=flat&logo=typescript&logoColor=fff&color=3178c6) ![](https://img.shields.io/badge/-Sass-5194f0?style=flat&logo=sass&logoColor=fff&color=cc6699) |
-| [Searchpets!](https://github.com/MyFursona-Project/searchpets) | Search for characters from the _Housepets!_ comic | ![](https://img.shields.io/badge/-Next.js-5194f0?style=flat&logo=next.js&color=000) ![](https://img.shields.io/badge/-TypeScript-5194f0?style=flat&logo=typescript&logoColor=fff&color=3178c6) ![](https://img.shields.io/badge/-Tailwind-5194f0?style=flat&logo=Tailwind-CSS&color=fff) ![](https://img.shields.io/badge/-Sass-5194f0?style=flat&logo=sass&logoColor=fff&color=cc6699) |
-| [Plainrock124 Website](https://github.com/skepfusky/plainrock124-website) | Plainrock124 concept website | ![](https://img.shields.io/badge/-Next.js-5194f0?style=flat&logo=next.js&color=000) ![](https://img.shields.io/badge/-TypeScript-5194f0?style=flat&logo=typescript&logoColor=fff&color=3178c6) ![](https://img.shields.io/badge/-Tailwind-5194f0?style=flat&logo=Tailwind-CSS&color=fff) ![](https://img.shields.io/badge/-Sass-5194f0?style=flat&logo=sass&logoColor=fff&color=cc6699) |
+| [Panda Paco Art Stats](https://github.com/OpenFurs/pandapaco-art-statistics) | Shows drawing stats from pandapaco | ![](https://img.shields.io/badge/-Vue.js-5194f0?style=flat&logo=vue.js&color=fff) |
+| [MyFursona](https://github.com/MyFursona-Project/MyFursona) | Lets users store and create their fursonas | ![](https://img.shields.io/badge/-Next.js-5194f0?style=flat&logo=next.js&color=000) ![](https://img.shields.io/badge/-TypeScript-5194f0?style=flat&logo=typescript&logoColor=fff&color=3178c6) |
+| [Searchpets!](https://github.com/MyFursona-Project/searchpets) | Search for characters from the _Housepets!_ comic | ![](https://img.shields.io/badge/-Next.js-5194f0?style=flat&logo=next.js&color=000) ![](https://img.shields.io/badge/-TypeScript-5194f0?style=flat&logo=typescript&logoColor=fff&color=3178c6) ![](https://img.shields.io/badge/-Tailwind-5194f0?style=flat&logo=Tailwind-CSS&color=fff) ![](https://img.shields.io/badge/-Python-5194f0?style=flat&logo=python&color=fff) ![](https://img.shields.io/badge/-Flask-5194f0?style=flat&logo=Flask&color=000) |
+| [Plainrock124 Website](https://github.com/skepfusky/plainrock124-website) | Plainrock124 concept website | ![](https://img.shields.io/badge/-Next.js-5194f0?style=flat&logo=next.js&color=000) ![](https://img.shields.io/badge/-TypeScript-5194f0?style=flat&logo=typescript&logoColor=fff&color=3178c6) ![](https://img.shields.io/badge/-Tailwind-5194f0?style=flat&logo=Tailwind-CSS&color=fff) |
 | [Fandom Wiki Contributions](https://github.com/skepfusky/Fandom-wiki-contributions-bar) | A way to visualize edits from Fandom wikis | ![](https://img.shields.io/badge/-Svelte-5194f0?style=flat&logo=svelte&color=fff) |
 
 ## 🧑‍💻 Tech Stack
@@ -27,7 +27,6 @@
 </p>
 
 <h3 align="center">Design</h3>
-
 <p align="center">
 <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=figma,ps,pr,ae"></a>
 </p>
