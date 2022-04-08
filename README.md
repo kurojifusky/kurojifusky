@@ -1,6 +1,6 @@
-# Hi! Welcome to my terrible GitHub profile 👋
+# Hi, it me Skep 👋
 
-- 🦊 Just some 20-year-old fox-husky dude from the Philippines lol
+- 🦊 Just some 20-year-old fox-husky dude from the Philippines
 - 👨‍💻 Self-taught front-end web developer working with the React & Vue ecosystem (going full-stack this year doe)
 - ✨ Currently learning MongoDB, and Supabase
 - 📲 Web and UI/UX designer
@@ -8,12 +8,15 @@
 - 🎥 Seasoned video editor/filmmaker
 
 ## 🧑‍💻 Tech Stack
-
+<h3 align="center">Front-end</h3>
 <p align="center">
-  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=js,ts,py,sass,tailwind,next,vue"></a>&nbsp;
-  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=nuxt,supabase,mongodb,prisma,cloudflare"></a>
-  <br>
-  <b><a href="https://stackshare.io/skepfusky/skepfusky-personal-stack">full crappy stack @ stackshare.io</a></b>
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=js,ts,sass,tailwind"></a>&nbsp;
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=next,vue,nuxt"></a>
+</p>
+
+<h3 align="center">Back-end</h3>
+<p align="center">
+  <a href="https://github.com/tandpfun/skill-icons#readme"><img src="https://skillicons.dev/icons?i=ts,py,supabase,mongodb"></a>
 </p>
 
 <h3 align="center">Design</h3>
