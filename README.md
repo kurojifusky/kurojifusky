@@ -13,3 +13,19 @@
   </a>
   <img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=skepfusky&theme=vue-dark&hide_border=true" alt="skepfusky">
 </p>
+
+
+<details>
+<summary><b>Projects</b></summary>
+
+| **Project** | **Stack** |
+|---|---|
+| [Panda Paco Art Stats](https://github.com/OpenFurs/pandapaco-art-statistics) | <img src="https://skillicons.dev/icons?i=nextjs,ts,sass,py,flask"> |
+| [MyFursona](https://github.com/MyFursona-Project/MyFursona) | <img src="https://skillicons.dev/icons?i=nextjs,ts,sass,mongodb"> |
+| [Searchpets!](https://github.com/OpenFurs/searchpets) | <img src="https://skillicons.dev/icons?i=nextjs,ts,sass,tailwind,py,flask"> |
+| [Plainrock124 Website](https://github.com/skepfusky/plainrock124-website) | <img src="https://skillicons.dev/icons?i=nextjs,ts,sass,tailwind"> |
+| [Fandom wiki bar](https://github.com/skepfusky/Fandom-wiki-contributions-bar) | <img src="https://skillicons.dev/icons?i=svelte,sass"> |
+| [Voicemeeter Modern UI Concept](https://github.com/skepfusky/voicemeeter-modern-ui-concept) | <img src="https://skillicons.dev/icons?i=vue,ts,electron"> |
+| [Art & Biro Recreated](https://github.com/skepfusky/art-and-biro-comic-vue3) | <img src="https://skillicons.dev/icons?i=vue,ts,sass,docker"> |
+  
+</details>
