@@ -1,6 +1,6 @@
 # Hi, it me Skep 👋
 
-- 🦊 Just some 20-year-old fox-husky dude from the Philippines
+- 🦊 Just some 20-year-old loser from the Philippines
 - 👨‍💻 Self-taught front-end web developer working with the React & Vue ecosystem (going full-stack this year doe)
 - ✨ Currently learning MongoDB, and Supabase
 - 📲 Web and UI/UX designer
