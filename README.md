@@ -10,7 +10,7 @@
   
 - 🦊 Just some 20-year-old loser from the Philippines
 - 👨‍💻 Self-taught front-end web developer working with the React & Vue ecosystem (going full-stack this year doe)
-- ✨ Currently learning C#, React Native, MongoDB, and Supabase
+- ✨ Currently learning C#, React Native, and Firebase
 - 📲 Web and UI/UX designer
 - 🎵 Self-produced indie music artist
 - 🎥 Seasoned video editor/filmmaker
