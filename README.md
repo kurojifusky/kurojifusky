@@ -14,9 +14,9 @@ a novice VFX artist, and a UI/UX designer! I'm currently learning C#, React Nati
   Languages/Frameworks
 </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,py,cs,react,nextjs,vue,nuxt,firebase&perline=7">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,sass,tailwind,react,vue,svelte,nextjs,nuxt&perline=7">
 </p>
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma,git,docker,bash,powershell,vim,vscode,visualstudio&perline=7">
+  <img src="https://skillicons.dev/icons?i=ps,ai,figma,bash,powershell,vim,vscode,visualstudio,git,docker,firebase&perline=7">
 </p>
