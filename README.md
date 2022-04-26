@@ -10,7 +10,13 @@ a novice VFX artist, and a UI/UX designer! I'm currently learning C#, React Nati
   </a>
   <img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=skepfusky&theme=vue-dark&hide_border=true" alt="skepfusky">
 </p>
-
+<h3 align="center">
+  Languages/Frameworks
+</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,py,cs,react,nextjs,vue,nuxt,firebase">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,py,cs,react,nextjs,vue,nuxt,firebase&perline=7">
+</p>
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,figma,git,docker,bash,powershell,vim,vscode,visualstudio&perline=7">
 </p>
