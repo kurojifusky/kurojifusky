@@ -1,5 +1,5 @@
 # hai
-I'm a 20-year-old hobbyist from the Philippines as a self-taught web developer, self-produced musician, filmmaker, novice VFX artist and video editor!
+I'm a 20-year-old hobbyist from the Philippines as a web and UI/UX designer, self-taught web developer, self-produced musician, filmmaker, novice VFX artist and video editor!
 
 ## Stats just to show off lol
 <p align="center">
