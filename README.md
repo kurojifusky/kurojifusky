@@ -11,7 +11,7 @@ I'm a 20-year-old hobbyist residing from Benguet, Philippines as a web and UI/UX
 
 ## 🛠️ Languages and stuff I use
 ### Languages
-![](https://skillicons.dev/icons?i=html,css,sass,nodejs,js,ts,py)
+![](https://skillicons.dev/icons?i=html,css,pug,sass,nodejs,js,ts,py)
 ### Frameworks
 ![](https://skillicons.dev/icons?i=tailwind,react,next,vue,nuxt,svelte,astro)
 ### Tools
