@@ -15,10 +15,10 @@ I'm a 20-year-old hobbyist residing from Benguet, Philippines as a web and UI/UX
 ### Frameworks
 ![](https://skillicons.dev/icons?i=tailwind,react,next,vue,nuxt,svelte,astro)
 ### Tools
-![](https://skillicons.dev/icons?i=ps,pr,ae,ai,figma,vscode,visualstudio,idea,vim,git,github,linux,docker&perline=8)
+![](https://skillicons.dev/icons?i=ps,pr,ae,figma,vscode,visualstudio,idea,vim,git,github,linux,docker&perline=8)
 
 ## 🤔 Interested in learning
-![](https://skillicons.dev/icons?i=neovim,raspberrypi,cs,go,fastapi,flask,electron,firebase,mongodb,redis,prisma&perline=8)
+![](https://skillicons.dev/icons?i=neovim,arduino,raspberrypi,cs,go,fastapi,flask,electron,firebase,mongodb,redis,prisma&perline=8)
 
 ## 🚫 Definitely avoiding these lol
 ![](https://skillicons.dev/icons?i=php,jquery,java)
