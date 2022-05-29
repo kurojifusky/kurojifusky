@@ -1,5 +1,5 @@
 # hai
-I'm a 20-year-old hobbyist residing from Benguet, Philippines I'm a whole package!
+I'm a 20-year-old hobbyist residing from Benguet, Philippines and I'm basically a whole package!
 
 - 📹 Editing videos and minor VFX stuff **since 2014**
 - 🎵 Producing indie music and an aspiring musician **since 2017**
