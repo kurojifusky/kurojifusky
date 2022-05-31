@@ -2,6 +2,7 @@
 I'm a 20-year-old hobbyist residing from Benguet, Philippines and I'm basically a whole package!
 
 - 📹 Editing videos and minor VFX stuff **since 2014**
+- 🎨 More keen-eyed on web and UI/UX design
 - 🎵 Producing indie music and an aspiring musician **since 2017**
 - 🧑‍💻 My first programming experience is at ages 10-11 messing around with simple Batch files, simple VBScript message boxes, and VB.NET for making WinForms apps
 - 🌐 Got into web development after editing wikis from Fandom Wikis to expand my creativity
