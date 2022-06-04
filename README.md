@@ -16,16 +16,32 @@ I'm a 20-year-old hobbyist residing from Benguet, Philippines and I'm basically 
   <img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=skepfusky&theme=tokyonight&hide_border=true" alt="skepfusky">
 </p>
 
-## 🛠️ Languages and stuff I use
-### Languages
-![](https://skillicons.dev/icons?i=dotnet,html,css,sass,nodejs,js,ts,py,powershell,bash&perline=8)
-### Frameworks
-![](https://skillicons.dev/icons?i=tailwind,react,next,vue,nuxt,svelte,astro)
-### Tools
-![](https://skillicons.dev/icons?i=ps,pr,ae,figma,vscode,visualstudio,idea,vim,git,github,linux,docker&perline=8)
-
-## 🤔 Interested in learning
-![](https://skillicons.dev/icons?i=neovim,arduino,raspberrypi,cpp,cs,go,fastapi,flask,electron,firebase,mongodb,redis,prisma&perline=8)
-
-## 🚫 Definitely avoiding these lol
-![](https://skillicons.dev/icons?i=php,jquery,java)
+## 🛠️ Tech stack
+<div align="center">
+<table>
+    <tr>
+      <th align="right">Category</th>
+      <th align="left">Technologies</th>
+    </tr>
+    <tr>
+      <td align="right">Languages</td>
+      <td><img src="https://skillicons.dev/icons?i=dotnet,nodejs,js,ts,py" height="35px"/></td>
+    </tr>
+    <tr>
+      <td align="right">Front-end</td>
+      <td><img src="https://skillicons.dev/icons?i=html,css,sass,react,vue,next,nuxt,vite,svelte,astro,electron" height="35px"/></td>
+    </tr>
+    <tr>
+      <td align="right">Back-end</td>
+      <td><img src="https://skillicons.dev/icons?i=docker,redis,mongodb,prisma,firebase" height="35px"/></td>
+    </tr>
+    <tr>
+      <td align="right">Miscellaneous</td>
+      <td><img src="https://skillicons.dev/icons?i=linux,bash,powershell,markdown,git,github,vim,vscode,visualstudio" height="35px"/></td>
+    </tr>
+    <tr>
+      <td align="right">Design/Creative</td>
+      <td><img src="https://skillicons.dev/icons?i=figma,ae,ps,pr,ai" height="35px"/></td>
+    </tr>
+  </table>
+</div>
