@@ -6,7 +6,7 @@
             <code>🎵 music on spotify</code>
         </a>
         &nbsp;&bull;&nbsp;
-        <a href="">
+        <a href="https://youtube.com/skepfusky97">
             <code>📹 overedited stuff on yt</code>
         </a>
     </small>
