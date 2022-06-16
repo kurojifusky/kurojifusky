@@ -1,21 +1,22 @@
 <p align="center">
-    20 &bull; he/him &bull; self-taught
     <br>
     I'm more than just a self-taught web developer.
     <br>
-    <a href="https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl">
-        <code>🎵</code>
-        Music on Spotify
-    </a>
-    &nbsp;&bull;&nbsp;
-    <a href="">
-        <code>📹</code>
-        Funnies on YouTube
-    </a>
+    <small>
+        <a href="https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl">
+            <code>🎵</code>
+            Music on Spotify
+        </a>
+        &nbsp;&bull;&nbsp;
+        <a href="">
+            <code>📹</code>
+            Overedited stuff on YouTube
+        </a>
+    </small>
 </p>
 <div align="center">
 <details>
-<summary><strong>stuff</strong></summary>
+<summary><strong>expand for stuff</strong></summary>
 <h2>📈 Stats</h2> 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
