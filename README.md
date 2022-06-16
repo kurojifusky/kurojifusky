@@ -1,13 +1,29 @@
-I'm a 20-year-old hobbyist residing from Benguet, Philippines and I'm basically a whole package!
-
-- 📹 Editing videos and minor VFX stuff **since 2014**
-- 🎨 More keen-eyed on web and UI/UX design
-- 🎵 Producing indie music and an aspiring musician **since 2017**
-- 🧑‍💻 My first programming experience is at ages 10-11 messing around with simple Batch files, simple VBScript message boxes, and VB.NET for making WinForms apps
-- 🌐 Got into web development after editing wikis from Fandom Wikis to expand my creativity
-- 💾 Interested in learning Arduino with basic C++ knowledge and Raspberry Pi for fun! And getting into the Python ecosystem, the JavaScript world is a goddamn mess lol
-
-## 🛠️ Tech stack
+<p align="center">
+    20 &bull; he/him &bull; self-taught
+    <br>
+    I'm more than just a self-taught web developer.
+    <br>
+    <a href="https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl">
+        <code>🎵</code>
+        Music on Spotify
+    </a>
+    &nbsp;&bull;&nbsp;
+    <a href="">
+        <code>📹</code>
+        Funnies on YouTube
+    </a>
+</p>
+<div align="center">
+<details>
+<summary><strong>stuff</strong></summary>
+<h2>📈 Stats</h2> 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="348" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&hide_title=true&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&hide=json,markdown&include_all_commits=true&card_width=300">
+  </a>
+  <img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=skepfusky&theme=tokyonight&hide_border=true" alt="skepfusky">
+</p>
+<h2>🛠️ Tech stack</h2>
 <div align="center">
 <table>
     <tr>
@@ -36,11 +52,5 @@ I'm a 20-year-old hobbyist residing from Benguet, Philippines and I'm basically 
     </tr>
   </table>
 </div>
-
-## 📈 Stats 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="348" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&hide_title=true&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&hide=json,markdown&include_all_commits=true&card_width=300">
-  </a>
-  <img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=skepfusky&theme=tokyonight&hide_border=true" alt="skepfusky">
-</p>
+</details>
+</div>
