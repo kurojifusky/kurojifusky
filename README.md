@@ -1,5 +1,5 @@
 <p align="center">
-    I'm more than just a self-taught web developer.
+    I'm more than just a developer.
     <br>
     <small>
         <a href="https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl">
