@@ -4,13 +4,11 @@
     <br>
     <small>
         <a href="https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl">
-            <code>🎵</code>
-            Music on Spotify
+            <code>🎵 music on spotify</code>
         </a>
         &nbsp;&bull;&nbsp;
         <a href="">
-            <code>📹</code>
-            Overedited stuff on YouTube
+            <code>📹 overedited stuff on yt</code>
         </a>
     </small>
 </p>
