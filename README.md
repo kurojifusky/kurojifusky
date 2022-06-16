@@ -1,5 +1,4 @@
 <p align="center">
-    <br>
     I'm more than just a self-taught web developer.
     <br>
     <small>
