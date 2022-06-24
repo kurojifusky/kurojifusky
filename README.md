@@ -45,7 +45,7 @@
       <td><img src="https://skillicons.dev/icons?i=linux,bash,powershell,markdown,git,github,vim,vscode,visualstudio" height="35px"/></td>
     </tr>
     <tr>
-      <td align="right">Design/Creative</td>
+      <td align="right">Design</td>
       <td><img src="https://skillicons.dev/icons?i=figma,ae,ps,pr,ai" height="35px"/></td>
     </tr>
   </table>
