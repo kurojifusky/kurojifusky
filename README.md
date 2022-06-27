@@ -1,5 +1,5 @@
 <p align="center">
-    I'm more than just a developer.
+    React/Vue developer -- and I'm more than just a developer.
     <br>
     <small>
         <a href="https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl">
@@ -13,7 +13,7 @@
 </p>
 <div align="center">
 <details>
-<summary><strong>expand for stuff</strong></summary>
+<summary><strong>expand for more goodness</strong></summary>
 <h2>📈 Stats</h2> 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
