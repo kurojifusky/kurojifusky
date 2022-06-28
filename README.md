@@ -1,5 +1,5 @@
 <p align="center">
-    React/Vue developer -- and I'm more than just a developer.
+    A React/Vue developer and stuff too
     <br>
     <small>
         <a href="https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl">
