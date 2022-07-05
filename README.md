@@ -1,19 +1,21 @@
-<p align="center">
-    A React/Vue developer and stuff too
-    <br>
+<div align="center">
+    <h3>A React/Vue developer</h3>
     <small>
         <a href="https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl">
-            <code>🎵 music on spotify</code>
+            <code>🎵 my music on spotify</code>
         </a>
         &nbsp;&bull;&nbsp;
         <a href="https://youtube.com/skepfusky97">
-            <code>📹 overedited stuff on yt</code>
+            <code>📹 overedited crap on youtube</code>
         </a>
     </small>
-</p>
+    <br>
+    <br>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=6">
+</div>
 <div align="center">
 <details>
-<summary><strong>expand for more goodness</strong></summary>
+<summary><strong>expand me uwu</strong></summary>
 <h2>📈 Stats</h2> 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
