@@ -1,5 +1,5 @@
+<h3 align="center">Hello there! I'm a20-year-old hobbyist as a full-stack developer, designer, video editor, and self-produced musician!</h3>
 <div align="center">
-    <h3>A React/Vue developer</h3>
     <small>
         <a href="https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl">
             <code>🎵 my music on spotify</code>
@@ -8,10 +8,14 @@
         <a href="https://youtube.com/skepfusky97">
             <code>📹 overedited crap on youtube</code>
         </a>
+        &nbsp;&bull;&nbsp;
+        <a href="https://skepfusky.xyz">
+            <code>🦊 my website</code>
+        </a>
     </small>
     <br>
     <br>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=6">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63">
 </div>
 <div align="center">
 <details>
