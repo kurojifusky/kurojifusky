@@ -12,7 +12,7 @@
 <div align="center">
     <small>
         <a href="https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl">🎵 my music on spotify</a>
-        <a href="https://youtube.com/skepfusky97">📹 overedited crap on youtube</a>
+        &nbsp;&bull;&nbsp;
         <a href="https://skepfusky.xyz">🦊 my website</a>
     </small>
     <br>
