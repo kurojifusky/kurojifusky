@@ -17,7 +17,7 @@
     <br>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&theme=tokyonight&langs_count=6&hide_border=true&include_all_commits=true&card_width=320">
+      <img width="379" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&theme=tokyonight&langs_count=5&hide_border=true&include_all_commits=true&card_width=310">
     </a>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=6">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=5">
 </div>
