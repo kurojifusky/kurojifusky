@@ -7,7 +7,6 @@
     </a>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=5&unique=true">
 </div>
-<br>
 <p align="center">
     <a href="https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl">🎵 my music on spotify</a>
     &nbsp;&bull;&nbsp;
