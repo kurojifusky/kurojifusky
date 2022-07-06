@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl">🎵 my music on spotify</a>
     &nbsp;&bull;&nbsp;
-    <a href="https://skepfusky.xyz/fursona">🦊 my fursona >w<</a>
+    <a href="https://skepfusky.xyz/fursona">🦊 more about my fox-husky fursona</a>
 </p>
 <p align="center">
     <a href="https://twitter.com/skepfuskyjs">
