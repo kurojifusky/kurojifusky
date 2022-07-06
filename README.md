@@ -13,7 +13,7 @@
     <small>
         <a href="https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl">🎵 my music on spotify</a>
         &nbsp;&bull;&nbsp;
-        <a href="https://skepfusky.xyz">🦊 my website</a>
+        <a href="https://skepfusky.xyz/fursona">🦊 my fursona >w<</a>
     </small>
     <br>
     <br>
