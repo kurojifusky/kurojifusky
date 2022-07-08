@@ -24,3 +24,19 @@
 
 <h2 align="center">Tech stack</h2>
 <p align="center"><img src="https://skillicons.dev/icons?i=tailwind,sass,js,ts,py,vue,react,svelte,flask,fastapi,redis,cloudflare"/></p>
+
+## Projects
+
+### Vue
+
+- [**My Website**](https://skepfusky.xyz)
+- [OpenFurs Website](https://openfurs.vercel.app)
+- [Scammerino](https://github.com/skepfusky/scammerino)
+
+### React
+
+- [Searchpets](https://searchpets.xyz)
+- MyFursona
+- [Paco Drawing Stats](https://github.com/skepfusky/pacopanda-drawing-stats)
+- [Fren Time Tracker](https://github.com/skepfusky/fren-time-tracker)
+- [Art & Biro Remastered](https://github.com/skepfusky/art-and-biro-comic-remastered)
