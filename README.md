@@ -24,3 +24,5 @@
 
 <h2 align="center">Tech stack</h2>
 <p align="center"><img src="https://skillicons.dev/icons?i=js,ts,py,tailwind,sass,vue,react,svelte,flask,fastapi,redis,docker&perline=6"/></p>
+
+*Thanks [@VulpoTheDev](https://github.com/VulpoTheDev), very cool!*
