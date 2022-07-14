@@ -23,7 +23,10 @@
     <img src="https://img.shields.io/badge/discord-skepfusky%239673-%237289da?style=for-the-badge&logoColor=white&logo=discord" />
 </p>
 
-<h2 align="center">Tech stack</h2>
-<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,py,tailwind,sass,vue,react,svelte,flask,fastapi,redis,docker&perline=6"/></p>
+## Tech stack
+![](https://skillicons.dev/icons?i=js,ts,py,tailwind,sass,vue,react,svelte,flask,fastapi,docker,")
+
+### Currently learning
+![](https://skillicons.dev/icons?i=go,redis,")
 
 *Thanks [@VulpoTheDev](https://github.com/VulpoTheDev), very cool!*
