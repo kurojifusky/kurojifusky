@@ -1,8 +1,8 @@
 <!-- Feel free to fork or copy me profile README, I don't mind! -->
-<img align="right" width="360" src="https://raw.githubusercontent.com/skepfusky/skepfusky/master/comm_for_davey_g2-min.png">
+<img align="right" width="340" src="https://raw.githubusercontent.com/skepfusky/skepfusky/master/comm_for_davey_g2-min.png">
 <h2 align="left">Hello there! I'm a 20-year-old hobbyist as a full-stack dev, designer, video editor, and a musician!</h2>
 
-### ⚒️ Tech stack
+### ⚒️ Languages and technologies
 ![](https://skillicons.dev/icons?i=js,ts,py,tailwind,sass,vue,react,svelte,flask,fastapi,docker&perline=8)
 
 #### 🧠 Currently learning
