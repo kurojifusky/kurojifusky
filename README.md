@@ -1,6 +1,6 @@
 <!-- Feel free to fork or copy me profile README, I don't mind! -->
 <img align="right" width="360" src="https://raw.githubusercontent.com/skepfusky/skepfusky/master/comm_for_davey_g2-min.png">
-<h2 align="left">Hello there! I'm a 20-year-old hobbyist as a full-stack dev, designer, video editor, and a musician!</h2>
+<h1 align="left">Hello there! I'm a 20-year-old hobbyist as a full-stack dev, designer, video editor, and a musician!</h1>
 
 ##  📊 Activity
 
