@@ -15,7 +15,7 @@ I'm not just limited to programming - I also do general and UI design, film and 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&include_all_commits=true&card_width=320">
 </a>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=5&unique=true">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=5">
 
 ### 💜 I'm in these places too
 
