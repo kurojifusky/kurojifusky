@@ -1,7 +1,7 @@
 <!-- Feel free to fork or copy me profile README, I don't mind! -->
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/skepfusky/skepfusky/master/comm_for_davey_g2-min.png">
-<h1 align="left">Hi there! I'm a 20-year-old hobbyist as a full-stack dev, designer, video editor, and a musician!</h2>
+<h2 align="left">Hi there! I'm a 20-year-old hobbyist as a full-stack dev, designer, video editor, and a musician!</h2>
 
 I'm not just limited to programming - I also do general and UI design, film and edit videos, and produce indie music as well!
 
@@ -9,7 +9,7 @@ I'm not just limited to programming - I also do general and UI design, film and 
 ![](https://skillicons.dev/icons?i=js,ts,py,tailwind,sass,vue,react,svelte,flask,fastapi,docker,figma,ps,pr,ae&perline=8)
 
 ### 🧠 Currently learning
-![](https://skillicons.dev/icons?i=go,redis,postgres)
+![](https://skillicons.dev/icons?i=graphql,go,redis,postgres)
 
 ##  📊 Activity
 
