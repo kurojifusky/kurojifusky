@@ -8,8 +8,11 @@ I'm not just limited to programming - I also do general and UI design, film and 
 ## ⚒️ Languages and technologies
 ![](https://skillicons.dev/icons?i=js,ts,py,tailwind,sass,vue,react,svelte,flask,fastapi,docker,figma,ps,pr,ae&perline=8)
 
+### ⌨️ Code editors
+![](https://skillicons.dev/icons?i=visualstudio,vscode,vim&perline=8)
+
 ### 🧠 Currently learning
-![](https://skillicons.dev/icons?i=graphql,go,redis,postgres)
+![](https://skillicons.dev/icons?i=graphql,go,redis)
 
 ##  📊 Activity
 
