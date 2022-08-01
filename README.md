@@ -3,13 +3,19 @@
 <img align="right" width="340" src="https://raw.githubusercontent.com/skepfusky/skepfusky/master/comm_for_davey_g2-min.png">
 <h2 align="left">Hi there! I'm a 20-year-old hobbyist as a full-stack dev, designer, video editor, and a musician!</h2>
 
-I'm not just limited to programming - I also do general and UI design, film and edit videos, and produce indie music as well!
+Turns out writing code is one of my hobbies, outside of that, I also do other hobbies such as:
+
+- 📷 Photography and filming timelapses or B-rolls
+- 🎬 Editing videos
+- 🕺 Practice to K-pop choreography or just free dance in general
+- 🎤 Warm up my voice as a tenor-voiced dude improving my vocal range
+- 🎹 Producing and mastering my own indie music
 
 ## ⚒️ Languages and technologies
 ![](https://skillicons.dev/icons?i=js,ts,py,tailwind,sass,vue,react,svelte,flask,fastapi,docker,figma,ps,pr,ae&perline=8)
 
 ### ⌨️ Code editors
-![](https://skillicons.dev/icons?i=visualstudio,vscode,vim&perline=8)
+![](https://skillicons.dev/icons?i=visualstudio,vscode,neovim,vim&perline=8)
 
 ### 🧠 Currently learning
 ![](https://skillicons.dev/icons?i=graphql,go,redis)
