@@ -27,6 +27,16 @@ Turns out writing code is one of my hobbies, outside of that, I also do other ho
 </a>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=5">
 
+### ✏️ Recent Projects
+
+| **Project** | **Last updated** |
+|---|---|
+| [skepfusky.xyz](https://github.com/skepfusky/skepfusky.xyz) | ![GitHub last commit](https://img.shields.io/github/last-commit/skepfusky/skepfusky.xyz?label=%20) |
+| [Panda Paco Drawing Stats](https://github.com/OpenFurs/pandapaco-art-statistics) | ![GitHub last commit](https://img.shields.io/github/last-commit/skepfusky/pacopanda-drawing-stats?label=%20) |
+| [MyFursona](https://github.com/MyFursona-Project/MyFursona) | ![GitHub last commit](https://img.shields.io/github/last-commit/MyFursona-Project/MyFursona?label=%20) |
+| [Searchpets!](https://github.com/OpenFurs/searchpets) | ![GitHub last commit](https://img.shields.io/github/last-commit/openfurs/searchpets?label=%20) |
+| [The Crimson Paw](https://github.com/skepfusky/The-Crimson-Paw) | ![GitHub last commit](https://img.shields.io/github/last-commit/skepfusky/The-Crimson-Paw?label=%20) |
+
 ## 💜 I'm in these places too
 
 [![](https://img.shields.io/badge/skepfusky97-%23ff0000?style=for-the-badge&logo=youtube)](https://youtube.com/skepfusky97)
