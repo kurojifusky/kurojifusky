@@ -12,13 +12,13 @@ Turns out writing code is one of my hobbies, outside of that, I also do other ho
 - 🎹 Producing and mastering my own indie music
 
 ## ⚒️ Languages and technologies
-![](https://skillicons.dev/icons?i=js,ts,py,tailwind,sass,vue,react,svelte,flask,fastapi,docker,figma,ps,pr,ae&perline=8)
+![](https://skillicons.dev/icons?i=js,ts,py,go,tailwind,sass,vue,react,svelte,flask,fastapi,docker,figma,ps,pr,ae&perline=8)
 
 ### ⌨️ Code editors
 ![](https://skillicons.dev/icons?i=visualstudio,vscode,neovim,vim&perline=8)
 
 ### 🧠 Currently learning
-![](https://skillicons.dev/icons?i=graphql,go,redis)
+![](https://skillicons.dev/icons?i=graphql,rust,redis)
 
 ##  📊 Activity
 
