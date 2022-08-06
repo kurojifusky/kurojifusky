@@ -32,7 +32,8 @@ Turns out writing code is one of my hobbies, outside of that, I also do other ho
 | **Project** | **Last updated** |
 |---|---|
 | [skepfusky.xyz](https://github.com/skepfusky/skepfusky.xyz) | ![GitHub last commit](https://img.shields.io/github/last-commit/skepfusky/skepfusky.xyz?label=%20) |
-| [Panda Paco Drawing Stats](https://github.com/OpenFurs/pandapaco-art-statistics) | ![GitHub last commit](https://img.shields.io/github/last-commit/skepfusky/pacopanda-drawing-stats?label=%20) |
+| [Furry Trash API](https://github.com/skepfusky/furry-trash-api) | ![GitHub last commit](https://img.shields.io/github/last-commit/skepfusky/furry-trash-api?label=%20) |
+| [Panda Paco Drawing Stats](https://github.com/skepfusky/pandapaco-art-statistics) | ![GitHub last commit](https://img.shields.io/github/last-commit/skepfusky/pacopanda-drawing-stats?label=%20) |
 | [MyFursona](https://github.com/MyFursona-Project/MyFursona) | ![GitHub last commit](https://img.shields.io/github/last-commit/MyFursona-Project/MyFursona?label=%20) |
 | [Searchpets!](https://github.com/OpenFurs/searchpets) | ![GitHub last commit](https://img.shields.io/github/last-commit/openfurs/searchpets?label=%20) |
 | [The Crimson Paw](https://github.com/skepfusky/The-Crimson-Paw) | ![GitHub last commit](https://img.shields.io/github/last-commit/skepfusky/The-Crimson-Paw?label=%20) |
