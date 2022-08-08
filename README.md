@@ -18,7 +18,7 @@ Turns out writing code is one of my hobbies, outside of that, I also do other ho
 ![](https://skillicons.dev/icons?i=visualstudio,vscode,neovim,vim&perline=8)
 
 ### 🧠 Currently learning
-![](https://skillicons.dev/icons?i=graphql,rust,redis)
+![](https://skillicons.dev/icons?i=graphql,redis)
 
 ##  📊 Activity
 
