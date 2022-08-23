@@ -11,11 +11,11 @@
 <details>
 <summary><h2>⚒️ Languages and technologies</h2></summary>
 
-![](https://skillicons.dev/icons?i=nodejs,js,ts,py,go,tailwind,sass,vue,react,svelte,lit,astro,flask,fastapi,graphql,docker,figma,ps,pr,ae&perline=8)
+![](https://skillicons.dev/icons?i=nodejs,js,ts,py,go,tailwind,sass,vue,react,svelte,astro,flask,fastapi,graphql,docker,figma,ps,pr,ae&perline=8)
 
 ### 🧠 Currently learning/Wanting to learn
 
-![](https://skillicons.dev/icons?i=supabase,redis,postgres,cassandra,processing)
+![](https://skillicons.dev/icons?i=supabase,redis,postgres,cassandra,processing,lit)
 
 ### ⌨️ Code editors
 
