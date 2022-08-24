@@ -21,9 +21,4 @@
 
 ![](https://skillicons.dev/icons?i=vscode,neovim,vim)
 
-
-----
-
-<img width="410" src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=5">
-
 💜 *Thanks [@VulpoTheDev](https://github.com/VulpoTheDev), very cool!*
