@@ -21,4 +21,17 @@
 
 ![](https://skillicons.dev/icons?i=vscode,neovim,vim)
 
-💜 *Thanks [@VulpoTheDev](https://github.com/VulpoTheDev), very cool!*
+----
+
+<div align="center">
+
+<strong><a href="https://ko-fi.com/skepfusky">☕ ko-fi</a></strong> | 
+<strong><a href="https://skepfusky.xyz">🦊 website</a></strong> |
+<strong><a href="https://www.youtube.com/skepfusky97">📷 youtube</a></strong> |
+<strong><a href="https://www.youtube.com/channel/UCyATIf6yANiY5mewNjAfKvw">⌨️ codefusky</a></strong> |
+<strong><a href="https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl">🎵 spotify</a></strong> |
+<strong><a href="https://stackshare.io/skepfusky/skepfusky-personal-stack">📚 tech stack</a></strong>
+<br/>
+
+💜 <i>Thanks [@VulpoTheDev](https://github.com/VulpoTheDev), very cool!</i>
+</div>
