@@ -15,7 +15,7 @@
 
 ### 🧠 Currently learning/Wanting to learn
 
-![](https://skillicons.dev/icons?i=supabase,redis,postgres,cassandra,processing,lit)
+![](https://skillicons.dev/icons?i=supabase,rust,redis,postgres,cassandra,processing,lit)
 
 ### ⌨️ Code editors
 
