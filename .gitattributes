@@ -1,0 +1,5 @@
+* text=auto
+*.md linguist-detectable=true
+*.md linguist-documentation=false
+*.md linguist-detectable
+*.svg linguist-detectable
