@@ -34,4 +34,8 @@
 <br/>
 
 💜 <i>Thanks [@VulpoTheDev](https://github.com/VulpoTheDev), very cool!</i>
+
+<i>"Just because someone else is having a hard time, does not mean your “hard time” is not as difficult. So it is okay to say that you are having a hard time and ask a comfort from people around you."</i>
+
+<i>—Kim Seok-jin, BTS</i>
 </div>
