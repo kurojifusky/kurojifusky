@@ -1,21 +1,18 @@
 <!-- Feel free to fork or copy me profile README, I don't mind! -->
 
 ## Hi there! I'm a 20-year-old hobbyist as a full-stack dev, designer, video editor, and a musician!
-  <p>
-    <img align="right" src="https://lanyard.cnrad.dev/api/578263388442984463">
-  </p>
-  
-## ⚒️ Languages and technologies
-
-![](https://skillicons.dev/icons?i=nodejs,js,ts,py,go,tailwind,sass,vue,react,svelte,astro,flask,fastapi,graphql,docker,figma,ps,pr,ae&perline=7)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="right" width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&include_all_commits=true&card_width=320&hide=jupyter%20notebook,svg">
+<img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&include_all_commits=true&card_width=320&hide=jupyter%20notebook,markdown,svg">
   </a>
+
+## ⚒️ Languages and technologies
+
+![](https://skillicons.dev/icons?i=nodejs,js,ts,py,go,tailwind,sass,vue,react,svelte,astro,flask,fastapi,graphql,docker,figma,ps,pr,ae&perline=8)
 
 ### 🧠 Currently learning/Wanting to learn
 
-![](https://skillicons.dev/icons?i=supabase,rust,redis,postgres,cassandra,processing,lit)
+![](https://skillicons.dev/icons?i=supabase,rust,redis,postgres,cassandra,processing)
 
 ### ⌨️ Code editors
 
@@ -35,7 +32,4 @@
 
 💜 <i>Thanks [@VulpoTheDev](https://github.com/VulpoTheDev), very cool!</i>
 
-<i>"Just because someone else is having a hard time, does not mean your “hard time” is not as difficult. So it is okay to say that you are having a hard time and ask a comfort from people around you."</i>
-
-<i>—Kim Seok-jin, BTS</i>
 </div>
