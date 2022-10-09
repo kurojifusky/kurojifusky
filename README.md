@@ -8,7 +8,7 @@
 
 ## ⚒️ Languages and technologies
 
-![](https://skillicons.dev/icons?i=nodejs,js,ts,py,go,tailwind,sass,vue,react,svelte,astro,flask,fastapi,graphql,docker,figma,ps,pr,ae&perline=8)
+![](https://skillicons.dev/icons?i=nodejs,js,ts,py,go,lua,tailwind,sass,vue,react,svelte,astro,flask,fastapi,graphql,docker,figma,ps,pr,ae&perline=8)
 
 ### 🧠 Currently learning/Wanting to learn
 
