@@ -1,6 +1,12 @@
-<!-- Feel free to fork or copy me profile README, I don't mind! -->
+<!-- Feel free to fork or copy my profile README, I don't mind! -->
 
 ## Hi there! I'm a 20-year-old hobbyist as a full-stack dev, designer, video editor, and a musician!
+
+I do programming as a side-hustle and also a hobby at the same time, just a warning that my code quality may change overtime lol
+<details>
+<summary>
+  <strong>Stats and tech stack</strong>
+</summary>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skepfusky&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&include_all_commits=true&card_width=320&hide=jupyter%20notebook,markdown,svg">
@@ -17,6 +23,8 @@
 ### ⌨️ Code editors
 
 ![](https://skillicons.dev/icons?i=vscode,neovim,vim)
+
+</details>
 
 ----
 
