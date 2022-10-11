@@ -1,8 +1,6 @@
 <!-- Feel free to fork or copy my profile README, I don't mind! -->
 
-## Hi there! I'm a 20-year-old hobbyist as a full-stack dev, designer, video editor, and a musician!
-
-I do programming as a side-hustle and also a hobby at the same time, just a warning that my code quality may change overtime lol
+Hi there! I'm a 20-year-old hobbyist as a full-stack dev, designer, video editor, and a musician! I do programming as a side-hustle and also a hobby at the same time, just a warning that my code quality may change overtime lol
 <details>
 <summary>
   <strong>Stats and tech stack</strong>
