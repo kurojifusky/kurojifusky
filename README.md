@@ -5,18 +5,17 @@ const hobbyist = {
   age: 20,
   cutie: false,
   species: "Fox-husky hybrid",
-  hobbies: ["Full stack web developer", "Video editor", "Indie music producer"],
+  hobbies: ["Full stack web developer", "UI/UX designer", "Video editor", "Indie music producer"],
   languages: ["TypeScript", "JavaScript", "Python", "Go", "CSS", "Sass/SCSS"],
   moreAboutMe: "https://skepfusky.xyz/about"
 }
 ```
-
 <details>
 <summary>
   <strong>Stats</strong>
 </summary>
 <p align="center">
-  <img align="center" width="590" src="https://github-readme-stats.vercel.app/api/wakatime?username=skepfusky&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&custom_title=I'm%20a%20showoff%20I%20know&hide=other,markdown,json">
+  <img align="center" width="580" src="https://github-readme-stats.vercel.app/api/wakatime?username=skepfusky&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&custom_title=I'm%20a%20showoff%20I%20know&hide=other,markdown,json">
  </p>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
