@@ -7,7 +7,7 @@ const hobbyist = {
   cutie: false,
   species: "Fox-husky hybrid",
   hobbies: ["Full stack web developer", "UI/UX designer", "Video editor", "Indie music producer"],
-  languages: ["TypeScript", "JavaScript", "Python", "Go", "CSS", "Sass/SCSS"],
+  languages: ["TypeScript", "JavaScript", "Python", "Go", "Bash Shell", "Windows PowerShell"],
   moreAboutMe: "https://skepfusky.xyz/about"
 }
 ```
