@@ -17,7 +17,7 @@ const hobbyist = {
 <div align="center">
 
 ### Programming Languages
-![](https://skillicons.dev/icons?i=nodejs,js,ts,py,go,bash,powershell)
+![](https://skillicons.dev/icons?i=bash,powershell,nodejs,js,ts,py,go,dart)
 
 ### Design
 ![](https://skillicons.dev/icons?i=figma,ps,ai)
