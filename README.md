@@ -2,12 +2,12 @@
 const hobbyist = {
   name: "skepfusky",
   aliases: ["Skep", "Kokoro Husky"],
+  hobbies: ["Full stack web developer", "UI/UX designer", "Video editor", "Indie music producer"].
   age: 20,
   species: "Fox-husky hybrid",
   nationality: "Filipino",
   cutie: false,
   moreAboutMe: "https://skepfusky.xyz/about",
-  hobbies: ["Full stack web developer", "UI/UX designer", "Video editor", "Indie music producer"]
 }
 ```
 <details>
