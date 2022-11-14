@@ -3,14 +3,33 @@ const hobbyist = {
   name: "skepfusky",
   aliases: ["Skep", "Kokoro Husky"],
   age: 20,
+  species: "Fox-husky hybrid",
   nationality: "Filipino",
   cutie: false,
-  species: "Fox-husky hybrid",
-  hobbies: ["Full stack web developer", "UI/UX designer", "Video editor", "Indie music producer"],
-  languages: ["TypeScript", "JavaScript", "Python", "Go", "Bash Shell", "Windows PowerShell"],
-  moreAboutMe: "https://skepfusky.xyz/about"
+  moreAboutMe: "https://skepfusky.xyz/about",
+  hobbies: ["Full stack web developer", "UI/UX designer", "Video editor", "Indie music producer"]
 }
 ```
+<details>
+<summary>
+  <strong>Technologies</strong> 
+</summary>
+<div align="center">
+
+### Programming Languages
+![](https://skillicons.dev/icons?i=nodejs,js,ts,py,go,bash,powershell)
+
+### Design
+![](https://skillicons.dev/icons?i=figma,ps,ai)
+  
+### Front end
+![](https://skillicons.dev/icons?i=sass,tailwindcss,react,vue,svelte)<br/>
+![](https://skillicons.dev/icons?i=nextjs,nuxtjs,qt,flutter)
+  
+### Back end
+![](https://skillicons.dev/icons?i=redis,flask,fastapi,gql)
+</div>
+</details>
 <details>
 <summary>
   <strong>Stats</strong>
@@ -24,5 +43,4 @@ const hobbyist = {
 </a>
   
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=5">
-
 </details>
