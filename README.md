@@ -12,30 +12,36 @@ const hobbyist = {
 ```
 <details>
 <summary>
-  <strong>Technologies</strong> 
+  <strong>≡ ✨ Technologies</strong> 
 </summary>
 <div align="center">
 
-### Programming Languages
-![](https://skillicons.dev/icons?i=bash,powershell,nodejs,js,ts,py,go,dart)
+### Languages
+![](https://skillicons.dev/icons?i=dotnet,js,ts,py,go)<br/>
+![](https://skillicons.dev/icons?i=dart,bash,powershell,nodejs)
 
 ### Design
-![](https://skillicons.dev/icons?i=figma,ps,ai)
+![](https://skillicons.dev/icons?i=figma,ps,ai,ae)
   
 ### Front end
 ![](https://skillicons.dev/icons?i=sass,tailwindcss,react,vue,svelte)<br/>
 ![](https://skillicons.dev/icons?i=nextjs,nuxtjs,qt,flutter)
   
 ### Back end
-![](https://skillicons.dev/icons?i=redis,flask,fastapi,gql)
+![](https://skillicons.dev/icons?i=nginx,redis,flask,fastapi,gql)<br/>
+![](https://skillicons.dev/icons?i=vercel,cloudflare)
+  
+### Tooling
+![](https://skillicons.dev/icons?i=docker,github,git,vscode,neovim)  <br/>
+![](https://skillicons.dev/icons?i=linux)
 </div>
 </details>
 <details>
 <summary>
-  <strong>Stats</strong>
+  <strong>≡ 📊 Stats</strong>
 </summary>
 <p align="center">
-  <img align="center" width="580" src="https://github-readme-stats.vercel.app/api/wakatime?username=skepfusky&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&custom_title=I'm%20a%20showoff%20I%20know&hide=other,markdown,json">
+  <img align="center" width="580" src="https://github-readme-stats.vercel.app/api/wakatime?username=skepfusky&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&custom_title=I%20have%20no%20life&hide=other,markdown,json">
  </p>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
