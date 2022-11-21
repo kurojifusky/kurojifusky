@@ -1,7 +1,7 @@
 ```js
 const hobbyist = {
   name: "skepfusky",
-  aliases: ["Skep", "Kokoro Husky"],
+  aliases: ["Kuro", "Kuroji Husky"],
   hobbies: ["Full stack web developer", "UI/UX designer", "Video editor", "Indie music producer"].
   age: 20,
   species: "Fox-husky hybrid",
