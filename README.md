@@ -7,7 +7,7 @@ const hobbyist = {
   species: "Fox-husky hybrid",
   nationality: "Filipino",
   cutie: false,
-  moreAboutMe: "https://skepfusky.xyz/about",
+  moreAboutMe: "https://kurofusky.xyz/about",
 }
 ```
 <details>
@@ -17,8 +17,8 @@ const hobbyist = {
 <div align="center">
 
 ### Languages
-![](https://skillicons.dev/icons?i=dotnet,js,ts,py,go)<br/>
-![](https://skillicons.dev/icons?i=dart,bash,powershell,nodejs)
+![](https://skillicons.dev/icons?i=js,ts,py,go,dart)<br/>
+![](https://skillicons.dev/icons?i=bash,powershell,nodejs)
 
 ### Design
 ![](https://skillicons.dev/icons?i=figma,ps,ai,ae)
