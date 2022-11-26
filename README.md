@@ -41,7 +41,7 @@ const hobbyist = {
   <strong>≡ 📊 Stats</strong>
 </summary>
 <p align="center">
-  <img align="center" width="580" src="https://github-readme-stats.vercel.app/api/wakatime?username=skepfusky&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&custom_title=I%20have%20no%20life&hide=other,markdown,json">
+  <img align="center" width="580" src="https://github-readme-stats.vercel.app/api/wakatime?username=kuroji-fusky&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&custom_title=I%20have%20no%20life&hide=other,markdown,json">
  </p>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
