@@ -1,41 +1,21 @@
-```js
-const hobbyist = {
-  name: "Kuroji Husky",
-  aliases: ["Kuro", "kurofusky"],
-  hobbies: ["Full stack web developer", "UI/UX designer", "Video editor", "Indie music producer"].
-  age: 20,
-  species: "Fox-husky hybrid",
-  nationality: "Filipino",
-  cutie: false,
-  moreAboutMe: "https://kurofusky.xyz/about",
-}
-```
-<details>
-<summary>
-  <strong>≡ ✨ Technologies</strong> 
-</summary>
-<div align="center">
+Hiya! I'm a self-taught full-stack web and Python dev, and a UI/UX designer. I work most of the projects on my own because I'm a failure because Steven He said so. Outside of programming, I also do video editing worth decades of experience and making music.
 
+## ✨ Technologies
 ### Languages
-![](https://skillicons.dev/icons?i=js,ts,py,go,dart)<br/>
-![](https://skillicons.dev/icons?i=bash,powershell,nodejs)
+![](https://skillicons.dev/icons?i=js,ts,py,go,dart)
 
 ### Design
 ![](https://skillicons.dev/icons?i=figma,ps,ai,ae)
   
-### Front end
-![](https://skillicons.dev/icons?i=sass,tailwindcss,react,vue,svelte)<br/>
-![](https://skillicons.dev/icons?i=nextjs,nuxtjs,qt,flutter)
+### Front-end
+![](https://skillicons.dev/icons?i=sass,tailwindcss,react,vue,svelte,nextjs,nuxtjs,flutter)
   
-### Back end
-![](https://skillicons.dev/icons?i=nginx,redis,flask,fastapi,gql)<br/>
-![](https://skillicons.dev/icons?i=vercel,cloudflare)
+### Back-end and Infrastructure
+![](https://skillicons.dev/icons?i=nodejs,nginx,redis,flask,fastapi,gql,vercel,cloudflare)
   
 ### Tooling
-![](https://skillicons.dev/icons?i=docker,github,git,vscode,neovim)  <br/>
-![](https://skillicons.dev/icons?i=linux)
-</div>
-</details>
+![](https://skillicons.dev/icons?i=docker,github,git,vscode,neovim,linux)
+
 <details>
 <summary>
   <strong>≡ 📊 Stats</strong>
