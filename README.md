@@ -3,16 +3,16 @@ Hiya! I'm a self-taught full-stack web and Python dev, and a UI/UX designer. I w
 ## ✨ Technologies
 ### Languages
 ![](https://skillicons.dev/icons?i=js,ts,py,go,dart)
-
-### Design
-![](https://skillicons.dev/icons?i=figma,ps,ai,ae)
   
 ### Front-end
 ![](https://skillicons.dev/icons?i=sass,tailwindcss,react,vue,svelte,nextjs,nuxtjs,flutter)
   
 ### Back-end and Infrastructure
 ![](https://skillicons.dev/icons?i=nodejs,nginx,redis,flask,fastapi,gql,vercel,cloudflare)
-  
+
+### Design
+![](https://skillicons.dev/icons?i=figma,ps,ai,ae)
+
 ### Tooling
 ![](https://skillicons.dev/icons?i=docker,github,git,vscode,neovim,linux)
 
