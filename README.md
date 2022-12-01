@@ -1,4 +1,4 @@
-### Hiya! I'm a self-taught full-stack web and Python dev, and a UI/UX designer. I work most of the projects on my own because I'm a failure because Steven He said so. Outside of programming, I also do video editing worth decades of experience and making music.
+**Hiya!** I'm a self-taught full-stack web and Python dev and a UI/UX designer from the Philippines. I work most of the projects on my own because I'm a failure because Steven He said so. Outside of programming, I also do video editing worth decades of experience and making music.
 
 ## ✨ Technologies
 ### Languages
