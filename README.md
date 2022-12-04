@@ -2,7 +2,7 @@
 
 ## ✨ Technologies
 ### Languages
-![](https://skillicons.dev/icons?i=js,ts,py,go,dart)
+![](https://skillicons.dev/icons?i=js,ts,py,go,kotlin,cs)
   
 ### Front-end
 ![](https://skillicons.dev/icons?i=sass,tailwindcss,react,vue,svelte,nextjs,nuxtjs,flutter)
