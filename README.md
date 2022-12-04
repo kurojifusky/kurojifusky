@@ -2,6 +2,13 @@
 
 I write code as a passionate hobby of mine because I found it theraputic - outside of programming, I also do video editing worth decades of experience and making subpar indie music!
 
+## 🌐 Sites I manage
+
+- <https://kurofusky.xyz>
+- <https://biro-ui.kurofusky.xyz>
+- <https://searchpets.xyz>
+- <https://v2.searchpets.xyz>
+
 ## ✨ Technologies
 ### Languages
 ![](https://skillicons.dev/icons?i=js,ts,py,go,kotlin,cs)
