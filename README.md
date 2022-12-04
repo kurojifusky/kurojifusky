@@ -1,4 +1,6 @@
-**Hiya!** I'm a self-taught full-stack web dev, data scientist, and a UI/UX designer from the Philippines. I work most of the projects on my own because I'm a failure because Steven He said so. Outside of programming, I also do video editing worth decades of experience and making music.
+**Hiya!** I'm a self-taught full-stack web dev, data scientist, and a UI/UX designer from the Philippines and I work most of the projects on my own. 
+
+I write code as a passionate hobby of mine because I found it theraputic - outside of programming, I also do video editing worth decades of experience and making subpar indie music!
 
 ## ✨ Technologies
 ### Languages
