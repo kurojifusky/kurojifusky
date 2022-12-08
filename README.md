@@ -1,6 +1,13 @@
-**Hiya!** I'm a self-taught full-stack web dev, data scientist, and a UI/UX designer from the Philippines and I work most of the projects on my own. 
+<h2>
+  Hai
+    <a href="https://www.youtube.com/watch?v=x95oZNxW5R">
+    <img width="32" src="https://user-images.githubusercontent.com/94678583/206547772-f8ce8655-e455-4e74-9a73-c0e8d90f2055.png" />
+  </a>
+</h2>
 
-I write code as a passionate hobby of mine because I found it therapeutic - outside of programming, I also do video editing worth decades of experience and making subpar indie music!
+I'm a self-taught full-stack web dev, data scientist, and a UI/UX designer from the Philippines and I work projects almost entirely on my own. (Well, only on GitHub at least)
+
+I write code as a passionate hobby of mine because I found it therapeutic; outside of programming, I also do video editing worth decades of experience and making subpar indie music!
 
 ## 🌐 Sites I manage
 
