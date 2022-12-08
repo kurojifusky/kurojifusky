@@ -71,7 +71,7 @@ I write code as a passionate hobby of mine because I found it therapeutic - outs
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=7">
 <br />
 <a href="https://github.com/avgupta456/github-trends">
-  <img src="https://api.githubtrends.io/user/svg/kuroji-fusky/repos?time_range=one_year&include_private=True&theme=dark" />
+  <img width="350" src="https://api.githubtrends.io/user/svg/kuroji-fusky/repos?time_range=one_year&include_private=True&theme=dark" />
 </a>
   
 </details>
