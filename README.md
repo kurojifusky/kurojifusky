@@ -9,13 +9,6 @@ I'm a self-taught full-stack web dev, data scientist, and a UI/UX designer from 
 
 I write code as a passionate hobby of mine because I found it therapeutic; outside of programming, I also do video editing worth decades of experience and making subpar indie music!
 
-## 🌐 Sites I manage
-
-- <https://kurofusky.xyz>
-- <https://biro-ui.kurofusky.xyz>
-- <https://searchpets.xyz>
-- <https://v2.searchpets.xyz>
-
 <details>
 <summary>
   <strong>≡ ✨ Technologies</strong>
