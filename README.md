@@ -30,11 +30,11 @@ I write code as a passionate hobby of mine because I found it therapeutic; outsi
 ![](https://skillicons.dev/icons?i=svelte)
 ![](https://skillicons.dev/icons?i=nextjs)
 ![](https://skillicons.dev/icons?i=nuxtjs)
-![](https://skillicons.dev/icons?i=flutter)
   
 ### Back-end and Infrastructure
 ![](https://skillicons.dev/icons?i=nodejs)
 ![](https://skillicons.dev/icons?i=nginx)
+![](https://skillicons.dev/icons?i=supabase)
 ![](https://skillicons.dev/icons?i=redis)
 ![](https://skillicons.dev/icons?i=flask)
 ![](https://skillicons.dev/icons?i=fastapi)
