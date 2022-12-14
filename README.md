@@ -5,7 +5,7 @@
   </a>
 </h2>
 
-I'm a self-taught full-stack web dev, data scientist, and a UI/UX designer from the Philippines and I work projects almost entirely on my own. (Well, only on GitHub at least)
+I'm a self-taught full-stack React and Vue dev, data scientist, and a UI/UX designer from the Philippines! I work projects almost entirely on my own ...well, only on GitHub at least.
 
 I write code as a passionate hobby of mine because I found it therapeutic; outside of programming, I also do video editing worth decades of experience and making subpar indie music!
 
