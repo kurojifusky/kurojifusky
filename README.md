@@ -14,14 +14,15 @@ I write code as a passionate hobby of mine because I found it therapeutic; outsi
   <strong>≡ ✨ Technologies</strong>
 </summary>
 
-### Programming Languages
+### Languages
 ![](https://skillicons.dev/icons?i=js)
 ![](https://skillicons.dev/icons?i=ts)
 ![](https://skillicons.dev/icons?i=py)
 ![](https://skillicons.dev/icons?i=go)
 ![](https://skillicons.dev/icons?i=kotlin)
 ![](https://skillicons.dev/icons?i=cs)
-  
+![](https://skillicons.dev/icons?i=bash)
+
 ### Front-end
 ![](https://skillicons.dev/icons?i=sass)
 ![](https://skillicons.dev/icons?i=tailwindcss)
