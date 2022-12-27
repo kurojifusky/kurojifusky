@@ -1,18 +1,17 @@
-<h2>
+<h1>
   Hai
     <a href="https://www.youtube.com/watch?v=x95oZNxW5R">
-    <img width="32" src="https://user-images.githubusercontent.com/94678583/206547772-f8ce8655-e455-4e74-9a73-c0e8d90f2055.png" />
+    <img width="40" src="https://user-images.githubusercontent.com/94678583/206547772-f8ce8655-e455-4e74-9a73-c0e8d90f2055.png" />
   </a>
-</h2>
+</h1>
 
-I'm a self-taught full-stack React and Vue dev, data scientist, and a UI/UX designer from the Philippines! I write code as a passionate hobby of mine because I found it therapeutic; outside of programming, I also do video editing worth decades of experience and making subpar indie music!
+I'm a self-taught full-stack React and Vue dev, data scientist, and a UI/UX designer from the Philippines!
 
-<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=6">
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=4">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroji-fusky&layout=compact&theme=dark&langs_count=10&hide_border=true&include_all_commits=true&card_width=320&hide=markdown">
 </a>
-
 
 <details>
 <summary>
