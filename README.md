@@ -7,6 +7,12 @@
 
 I'm a self-taught full-stack React and Vue dev, data scientist, and a UI/UX designer from the Philippines!
 
+- 🔥 Currently finding time to learn Kotlin and C# for mobile development and AR/basic 2D game development for [The Foxington Vault Project][tfv]
+- 💪 Proficent in ES6 JavaScript, TypeScript, and Python
+- ✨ Have an interest in diverse UI and visual design, special effects, audio engineering (software engineering's great too!), and filmmaking
+- 🎬 Decades worth of video editing in Premiere and After Effects
+- 🎵 Produced mediocre indie music and released on Spotify and iTunes
+
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=4">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -72,3 +78,6 @@ I'm a self-taught full-stack React and Vue dev, data scientist, and a UI/UX desi
   <img width="350" src="https://api.githubtrends.io/user/svg/kuroji-fusky/repos?time_range=one_year&include_private=True&theme=dark" />
 </a>
 </details>
+
+
+[tfv]: https://github.com/foxington-vault
