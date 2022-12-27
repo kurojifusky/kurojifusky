@@ -5,9 +5,14 @@
   </a>
 </h2>
 
-I'm a self-taught full-stack React and Vue dev, data scientist, and a UI/UX designer from the Philippines! I work projects almost entirely on my own ...well, only on GitHub at least.
+I'm a self-taught full-stack React and Vue dev, data scientist, and a UI/UX designer from the Philippines! I write code as a passionate hobby of mine because I found it therapeutic; outside of programming, I also do video editing worth decades of experience and making subpar indie music!
 
-I write code as a passionate hobby of mine because I found it therapeutic; outside of programming, I also do video editing worth decades of experience and making subpar indie music!
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=6">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroji-fusky&layout=compact&theme=dark&langs_count=10&hide_border=true&include_all_commits=true&card_width=320&hide=markdown">
+</a>
+
 
 <details>
 <summary>
@@ -36,6 +41,7 @@ I write code as a passionate hobby of mine because I found it therapeutic; outsi
 ![](https://skillicons.dev/icons?i=nginx)
 ![](https://skillicons.dev/icons?i=supabase)
 ![](https://skillicons.dev/icons?i=redis)
+![](https://skillicons.dev/icons?i=postgresql)
 ![](https://skillicons.dev/icons?i=flask)
 ![](https://skillicons.dev/icons?i=fastapi)
 ![](https://skillicons.dev/icons?i=gql)
@@ -62,17 +68,8 @@ I write code as a passionate hobby of mine because I found it therapeutic; outsi
 <summary>
   <strong>≡ 📊 Stats</strong>
 </summary>
-<p align="center">
-  <img align="center" width="580" src="https://github-readme-stats.vercel.app/api/wakatime?username=skepfusky&layout=compact&theme=dark&langs_count=8&hide_border=true&custom_title=I%20have%20no%20life&hide=other,markdown,json">
- </p>
-<br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroji-fusky&layout=compact&theme=dark&langs_count=10&hide_border=true&include_all_commits=true&card_width=320&hide=jupyter%20notebook,markdown,svg">
-</a>
-<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=7">
 <br />
 <a href="https://github.com/avgupta456/github-trends">
   <img width="350" src="https://api.githubtrends.io/user/svg/kuroji-fusky/repos?time_range=one_year&include_private=True&theme=dark" />
 </a>
-  
 </details>
