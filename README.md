@@ -1,22 +1,6 @@
-<h1>
-  Hai
-    <a href="https://www.youtube.com/watch?v=x95oZNxW5R">
-    <img width="40" src="https://user-images.githubusercontent.com/94678583/206547772-f8ce8655-e455-4e74-9a73-c0e8d90f2055.png" />
-  </a>
-</h1>
-
-I'm a self-taught full-stack React and Vue dev, data scientist, and a UI/UX designer from the Philippines!
-
-- 🔥 Currently finding time to learn Kotlin and C# for mobile development and AR/basic 2D game development for [The Foxington Vault Project][tfv]
-- 💪 Proficent in ES6 JavaScript, TypeScript, and Python
-- ✨ Have an interest in diverse UI and visual design, special effects, audio engineering (software engineering's great too!), and filmmaking
-- 🎬 Decades worth of video editing in Premiere and After Effects
-- 🎵 Produced mediocre indie music and released on Spotify and iTunes
-
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=jgvyje30t89zw4r2xy66j4u63&count=4">
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroji-fusky&layout=compact&theme=dark&langs_count=10&hide_border=true&include_all_commits=true&card_width=320&hide=markdown">
+  <img width="418" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroji-fusky&layout=compact&theme=dark&langs_count=10&hide_border=true&include_all_commits=true&card_width=320&hide=markdown">
 </a>
 
 <details>
@@ -67,17 +51,3 @@ I'm a self-taught full-stack React and Vue dev, data scientist, and a UI/UX desi
 ![](https://skillicons.dev/icons?i=github)
 ![](https://skillicons.dev/icons?i=vscode)
 ![](https://skillicons.dev/icons?i=neovim)
-
-</details>
-<details>
-<summary>
-  <strong>≡ 📊 Stats</strong>
-</summary>
-<br />
-<a href="https://github.com/avgupta456/github-trends">
-  <img width="350" src="https://api.githubtrends.io/user/svg/kuroji-fusky/repos?time_range=one_year&include_private=True&theme=dark" />
-</a>
-</details>
-
-
-[tfv]: https://github.com/foxington-vault
