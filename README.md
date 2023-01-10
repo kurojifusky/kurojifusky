@@ -5,7 +5,7 @@
 
 <details>
 <summary>
-  <strong>≡ ✨ Technologies</strong>
+  <strong>≡ ✨ Expand for Technologies and stuff</strong>
 </summary>
 
 ### Languages
