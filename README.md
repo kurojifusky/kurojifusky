@@ -1,9 +1,14 @@
+<p align="center">
+  <h2 align="center">my brain is fried</h2>
+<p/>
+
 <details>
 <summary>
-  <strong>≡ ✨ Expand for Technologies and stuff</strong>
+  <strong>≡ ✨ Goodies</strong>
 </summary>
 
-### Languages
+
+<h3>Languages</h3>
 ![](https://skillicons.dev/icons?i=js)
 ![](https://skillicons.dev/icons?i=ts)
 ![](https://skillicons.dev/icons?i=py)
@@ -11,7 +16,7 @@
 ![](https://skillicons.dev/icons?i=kotlin)
 ![](https://skillicons.dev/icons?i=cs)
 
-### Front-end
+<h3>Front-end</h3>
 ![](https://skillicons.dev/icons?i=sass)
 ![](https://skillicons.dev/icons?i=tailwindcss)
 ![](https://skillicons.dev/icons?i=react)
@@ -20,7 +25,7 @@
 ![](https://skillicons.dev/icons?i=nextjs)
 ![](https://skillicons.dev/icons?i=nuxtjs)
   
-### Back-end and Infrastructure
+<h3>Back-end and Infrastructure</h3>
 ![](https://skillicons.dev/icons?i=nodejs)
 ![](https://skillicons.dev/icons?i=nginx)
 ![](https://skillicons.dev/icons?i=supabase)
@@ -32,13 +37,13 @@
 ![](https://skillicons.dev/icons?i=vercel)
 ![](https://skillicons.dev/icons?i=cloudflare)
   
-### Design
+<h3>Design</h3>
 ![](https://skillicons.dev/icons?i=figma)
 ![](https://skillicons.dev/icons?i=ps)
 ![](https://skillicons.dev/icons?i=ai)
 ![](https://skillicons.dev/icons?i=ae)
 
-### Tooling
+<h3>Tooling</h3>
 ![](https://skillicons.dev/icons?i=bash)
 ![](https://skillicons.dev/icons?i=linux)
 ![](https://skillicons.dev/icons?i=docker)
@@ -46,3 +51,5 @@
 ![](https://skillicons.dev/icons?i=github)
 ![](https://skillicons.dev/icons?i=vscode)
 ![](https://skillicons.dev/icons?i=neovim)
+
+</p>
