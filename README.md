@@ -33,15 +33,10 @@
 ![](https://skillicons.dev/icons?i=tailwindcss)
 ![](https://skillicons.dev/icons?i=vue)
 ![](https://skillicons.dev/icons?i=react)
-![](https://skillicons.dev/icons?i=nextjs)
-![](https://skillicons.dev/icons?i=nuxtjs)
 ![](https://skillicons.dev/icons?i=svelte)
 ![](https://skillicons.dev/icons?i=redis)
-![](https://skillicons.dev/icons?i=postgres)
 ![](https://skillicons.dev/icons?i=figma)
 ![](https://skillicons.dev/icons?i=ai)
-![](https://skillicons.dev/icons?i=ae)
-![](https://skillicons.dev/icons?i=pr)
 
 ----
 
