@@ -1,6 +1,6 @@
 <div>
-<img src="https://res.cloudinary.com/skepfusky-dookie/image/upload/fursonas/MintyChipMocha_orig.png" align="right" width="275" />
-<h2 align="left">About me</h2>
+  <img src="https://res.cloudinary.com/skepfusky-dookie/image/upload/fursonas/MintyChipMocha_orig.png" align="right" width="275" />
+  <h2 align="left">About me</h2>
 </div>
 
 - 🦊 I'm a fox-husky hybrid from the Philippines working mostly on my own projects, even outside programming
@@ -30,3 +30,7 @@
 ![](https://skillicons.dev/icons?i=ai)
 ![](https://skillicons.dev/icons?i=ae)
 ![](https://skillicons.dev/icons?i=pr)
+
+----
+
+Artwork by [@MintyChipMocha](https://www.youtube.com/@MintyChipMocha)!
