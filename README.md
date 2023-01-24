@@ -18,7 +18,7 @@
 - [🟩 MyFursona][mf]
 - [🟩 Panda Paco Drawing Stats][paco]
 - [✋ Personal site][personal]
-- [✋ Timezone Tracker][tzt]
+- [✋ Searchpets!][sp]
 - [🟩 The Foxington Vault][tfv]
 - [✋ The Gumball API][gumball]
 - [✋ Biro UI][bui]
@@ -42,7 +42,7 @@
 
 Artwork by [@MintyChipMocha](https://www.youtube.com/@MintyChipMocha)!
 
-[tzt]: https://github.com/kuroji-fusky/timezone-tracker
+[sp]: https://github.com/openfurs/searchpets
 [paco]: https://github.com/kuroji-fusky/pacopanda-drawing-stats
 [mf]: https://github.com/MyFursona-Project/MyFursona
 [gumball]: https://github.com/kuroji-fusky/The-Gumball-API
