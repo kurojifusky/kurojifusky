@@ -11,6 +11,18 @@
 - 🎵 Produced mediocre indie music and released on Spotify and iTunes
 - ✉️ Reach me out directly by email <hello@kurofusky.xyz> or learn more from my [personal website](https://kurofusky.xyz/about)
 
+## Projects
+
+> **Legend:** 🟩 - Active | ✋ - On Hold
+
+- [🟩 MyFursona][mf]
+- [🟩 Panda Paco Drawing Stats][paco]
+- [✋ Personal site][personal]
+- [✋ Timezone Tracker][tzt]
+- [🟩 The Foxington Vault][tfv]
+- [✋ The Gumball API][gumball]
+- [✋ Biro UI][bui]
+
 ## Tech stack
 
 ![](https://skillicons.dev/icons?i=js)
@@ -34,3 +46,11 @@
 ----
 
 Artwork by [@MintyChipMocha](https://www.youtube.com/@MintyChipMocha)!
+
+[tzt]: https://github.com/kuroji-fusky/timezone-tracker
+[paco]: https://github.com/kuroji-fusky/pacopanda-drawing-stats
+[mf]: https://github.com/MyFursona-Project/MyFursona
+[gumball]: https://github.com/kuroji-fusky/The-Gumball-API
+[personal]: https://github.com/kuroji-fusky/kurofusky.xyz
+[tfv]: https://github.com/foxington-vault/The-Foxington-Vault
+[bui]: https://github.com/kuroji-fusky/Biro-UI
