@@ -13,15 +13,16 @@
 
 ## Projects
 
-> **Legend:** 🟩 - Active | ✋ - On Hold
+> **Legend:** 🟢 Active | 🚧 On Hold
 
-- [🟩 MyFursona][mf]
-- [🟩 Panda Paco Drawing Stats][paco]
-- [✋ Personal site][personal]
-- [✋ Searchpets!][sp]
-- [🟩 The Foxington Vault][tfv]
-- [✋ The Gumball API][gumball]
-- [✋ Biro UI][bui]
+|   | **Project** | **Description** |
+| - | ----------- | --------------- |
+| 🚧 | [Personal site][personal]  | Content dump site
+| 🟢 | [MyFursona][mf]            | A platform where you manage and create fursonas
+| 🟢 | [Paco Drawing Stats][paco] | Data viz project that collects drawings from a furry artist Paco Panda 
+| 🚧 | [The Gumball API][gumball] | A fan-made API based on the show *The Amazing World of Gumball*
+| 🚧 | [Searchpets!][sp]          | Comic search engine for the *Housepets!* comic 
+| 🚧 | [Biro UI][bui]             | My all-in-one home-grown design system
 
 ## Tech stack
 
@@ -45,7 +46,6 @@ Artwork by [@MintyChipMocha](https://www.youtube.com/@MintyChipMocha)!
 [sp]: https://github.com/openfurs/searchpets
 [paco]: https://github.com/kuroji-fusky/pacopanda-drawing-stats
 [mf]: https://github.com/MyFursona-Project/MyFursona
-[gumball]: https://github.com/kuroji-fusky/The-Gumball-API
 [personal]: https://github.com/kuroji-fusky/kurofusky.xyz
-[tfv]: https://github.com/foxington-vault/The-Foxington-Vault
 [bui]: https://github.com/kuroji-fusky/Biro-UI
+[gumball]: https://github.com/kuroji-fusky/The-Gumball-API
