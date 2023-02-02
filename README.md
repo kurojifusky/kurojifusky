@@ -4,9 +4,10 @@
 </div>
 
 - 🦊 I'm a fox-husky hybrid from the Philippines working mostly on my own projects, even outside programming
+- 🤹 I'm a self-taught hobby web developer that has worked with React, Vue, and Svelte! (and even Astro at one point)
 - 🎓 Graduated high school on May 19, 2021
 - 🌱 Currently learning Kotlin and C# for native Android development and Unity AR/basic 2D game development respectively
-- ✨ I have a huge scope of interest in diverse UI/UX and visual design, special effects, audio engineering, and filmmaking
+- ✨ Have a huge scope of interest in diverse UI/UX and visual design, special effects, audio engineering, and filmmaking
 - 🎬 Almost decades worth of video editing in Premiere and After Effects
 - 🎵 Produced mediocre indie music and released on Spotify and iTunes
 - ✉️ Reach me out directly by email <hello@kurofusky.xyz> or learn more from my [personal website](https://kurofusky.xyz/about)
@@ -17,7 +18,7 @@
 
 |   | **Project** | **Description** |
 | - | ----------- | --------------- |
-| 🚧 | [Personal site][personal]  | Content dump site
+| 🟢 | [Personal site][personal]  | Content dump site
 | 🟢 | [MyFursona][mf]            | A platform where you manage and create fursonas
 | 🟢 | [Paco Drawing Stats][paco] | Data viz project that collects drawings from a furry artist Paco Panda 
 | 🚧 | [The Gumball API][gumball] | A fan-made API based on the show *The Amazing World of Gumball*
