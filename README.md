@@ -8,7 +8,7 @@
 - 🎨 I specialize on UI/UX design, specifically on web design or even motion graphics in certain cases
 - 🎓 Graduated high school on May 19, 2021
 - 🌱 Currently learning Kotlin and C# for native Android development and Unity AR/basic 2D game development respectively
-- ✨ Have a huge scope of interest in diverse UI/UX and visual design, special effects, audio engineering, and filmmaking
+- ✨ Have a huge scope of interest in special effects, audio engineering, and filmmaking
 - 🎬 Almost decades worth of video editing in Premiere and After Effects
 - 🎵 Produced mediocre indie music and released on Spotify and iTunes
 - ✉️ Reach me out directly by email <hello@kurofusky.xyz> or learn more from my [personal website](https://kurofusky.xyz/about)
