@@ -1,5 +1,5 @@
 <div>
-  <img src="https://res.cloudinary.com/skepfusky-dookie/image/upload/fursonas/MintyChipMocha_orig.png" align="right" width="300" />
+  <img src="https://res.cloudinary.com/kuroji-fusky-s3/image/upload/fursonas/MintyChipMocha_orig.png" align="right" width="300" />
   <h2 align="left">About me</h2>
 </div>
 
