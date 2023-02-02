@@ -5,6 +5,7 @@
 
 - 🦊 I'm a fox-husky hybrid from the Philippines working mostly on my own projects, even outside programming
 - 🤹 I'm a self-taught hobby web developer that has worked with React, Vue, and Svelte! (and even Astro at one point)
+- 🎨 I specialize on UI/UX design, specifically on web design or even motion graphics in certain cases
 - 🎓 Graduated high school on May 19, 2021
 - 🌱 Currently learning Kotlin and C# for native Android development and Unity AR/basic 2D game development respectively
 - ✨ Have a huge scope of interest in diverse UI/UX and visual design, special effects, audio engineering, and filmmaking
@@ -14,16 +15,18 @@
 
 ## Projects
 
-> **Legend:** 🟢 Active | 🚧 On Hold
+> **Legend:** 🟩 Active | 🟨 On Hold
 
-|   | **Project** | **Description** |
-| - | ----------- | --------------- |
-| 🟢 | [Personal site][personal]  | Content dump site
-| 🟢 | [MyFursona][mf]            | A platform where you manage and create fursonas
-| 🟢 | [Paco Drawing Stats][paco] | Data viz project that collects drawings from a furry artist Paco Panda 
-| 🚧 | [The Gumball API][gumball] | A fan-made API based on the show *The Amazing World of Gumball*
-| 🚧 | [Searchpets!][sp]          | Comic search engine for the *Housepets!* comic 
-| 🚧 | [Biro UI][bui]             | My all-in-one home-grown design system
+|     | Project                    | Description                                                            | Date created |
+| --- | -------------------------- | ---------------------------------------------------------------------- | ------------ |
+| 🟩  | [Paco Drawing Stats][paco] | Data viz project that collects drawings from a furry artist Paco Panda | Oct 31, 2021 |
+| 🟩  | [Personal site][personal]  | Content dump site, it's bad don't visit                                | Nov 25, 2021 |
+| 🟩  | [MyFursona][mf]            | A platform where you manage and create fursonas                        | Mar 25, 2022 |
+| 🟨  | [Searchpets!][sp]          | Comic search engine for the _Housepets!_ comic                         | Mar 30, 2022 |
+| 🟨  | [Timezone Tracker][tz]     | Track your friends' timezone to see what time they're currently at     | Jun 16, 2022 |
+| 🟨  | [Biro UI][bui]             | My all-in-one home-grown design system                                 | Oct 10, 2022 |
+| 🟨  | [PWA Generator][pwa]       | A Python script for generating PWA boilerplate                         | Jan 3, 2023  |
+| 🟩  | [The Gumball API][gumball] | A fan-made API based on the show _The Amazing World of Gumball_        | Jan 19, 2023 |
 
 ## Tech stack
 
@@ -40,13 +43,15 @@
 ![](https://skillicons.dev/icons?i=figma)
 ![](https://skillicons.dev/icons?i=ai)
 
-----
+---
 
 Artwork by [@MintyChipMocha](https://www.youtube.com/@MintyChipMocha)!
 
 [sp]: https://github.com/openfurs/searchpets
 [paco]: https://github.com/kuroji-fusky/pacopanda-drawing-stats
 [mf]: https://github.com/MyFursona-Project/MyFursona
+[pwa]: https://github.com/kuroji-fusky/pwa-generator
 [personal]: https://github.com/kuroji-fusky/kurofusky.xyz
 [bui]: https://github.com/kuroji-fusky/Biro-UI
 [gumball]: https://github.com/kuroji-fusky/The-Gumball-API
+[tz]: https://github.com/kuroji-fusky/timezone-tracker
