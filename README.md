@@ -1,5 +1,5 @@
 <div>
-  <img src="https://res.cloudinary.com/kuroji-fusky-s3/image/upload/fursonas/MintyChipMocha_orig.png" align="right" width="300" />
+  <img src="https://res.cloudinary.com/kuroji-fusky-s3/image/upload/fursonas/MintyChipMocha_orig.png" align="right" width="275" />
   <h2 align="left">About me</h2>
 </div>
 
@@ -7,7 +7,7 @@
 - 🤹 I'm a self-taught hobby web developer that has worked with React, Vue, and Svelte! (and even Astro at one point)
 - 🎨 I specialize on UI/UX design, specifically on web design or even motion graphics in certain cases
 - 🎓 Graduated high school on May 19, 2021
-- 🌱 Currently learning Kotlin and C# for native Android development and Unity AR/basic 2D game development respectively
+- 🌱 Currently learning native Android development and C# for Unity AR stuff specifically
 - ✨ Have a huge scope of interest in special effects, audio engineering, and filmmaking
 - 🎬 Almost decades worth of video editing in Premiere and After Effects
 - 🎵 Produced mediocre indie music and released on Spotify and iTunes
