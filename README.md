@@ -30,18 +30,39 @@
 
 ## Tech stack
 
+### Frontend
 ![](https://skillicons.dev/icons?i=js)
 ![](https://skillicons.dev/icons?i=ts)
-![](https://skillicons.dev/icons?i=py)
-![](https://skillicons.dev/icons?i=go)
 ![](https://skillicons.dev/icons?i=sass)
 ![](https://skillicons.dev/icons?i=tailwindcss)
+![](https://skillicons.dev/icons?i=electron)
 ![](https://skillicons.dev/icons?i=vue)
+![](https://skillicons.dev/icons?i=nuxt)
 ![](https://skillicons.dev/icons?i=react)
+![](https://skillicons.dev/icons?i=nextjs)
 ![](https://skillicons.dev/icons?i=svelte)
+
+### Backend
+![](https://skillicons.dev/icons?i=py)
+![](https://skillicons.dev/icons?i=go)
+![](https://skillicons.dev/icons?i=supabase)
 ![](https://skillicons.dev/icons?i=redis)
+![](https://skillicons.dev/icons?i=postgres)
+![](https://skillicons.dev/icons?i=express)
+![](https://skillicons.dev/icons?i=cloudflare)
+![](https://skillicons.dev/icons?i=vercel)
+
+### Design
 ![](https://skillicons.dev/icons?i=figma)
 ![](https://skillicons.dev/icons?i=ai)
+![](https://skillicons.dev/icons?i=ps)
+
+### Tooling
+![](https://skillicons.dev/icons?i=git)
+![](https://skillicons.dev/icons?i=androidstudio)
+![](https://skillicons.dev/icons?i=neovim)
+![](https://skillicons.dev/icons?i=vscode)
+![](https://skillicons.dev/icons?i=postman)
 
 ---
 
