@@ -30,6 +30,11 @@
 
 ## Tech stack
 
+### Design
+![](https://skillicons.dev/icons?i=figma)
+![](https://skillicons.dev/icons?i=ai)
+![](https://skillicons.dev/icons?i=ps)
+
 ### Frontend
 ![](https://skillicons.dev/icons?i=js)
 ![](https://skillicons.dev/icons?i=ts)
@@ -48,20 +53,19 @@
 ![](https://skillicons.dev/icons?i=supabase)
 ![](https://skillicons.dev/icons?i=redis)
 ![](https://skillicons.dev/icons?i=postgres)
+![](https://skillicons.dev/icons?i=graphql)
 ![](https://skillicons.dev/icons?i=express)
 ![](https://skillicons.dev/icons?i=cloudflare)
 ![](https://skillicons.dev/icons?i=vercel)
-
-### Design
-![](https://skillicons.dev/icons?i=figma)
-![](https://skillicons.dev/icons?i=ai)
-![](https://skillicons.dev/icons?i=ps)
 
 ### Tooling
 ![](https://skillicons.dev/icons?i=git)
 ![](https://skillicons.dev/icons?i=androidstudio)
 ![](https://skillicons.dev/icons?i=neovim)
 ![](https://skillicons.dev/icons?i=vscode)
+![](https://skillicons.dev/icons?i=github)
+![](https://skillicons.dev/icons?i=linux)
+![](https://skillicons.dev/icons?i=docker)
 ![](https://skillicons.dev/icons?i=postman)
 
 ---
