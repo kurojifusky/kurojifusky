@@ -34,6 +34,7 @@
 ![](https://skillicons.dev/icons?i=figma)
 ![](https://skillicons.dev/icons?i=ai)
 ![](https://skillicons.dev/icons?i=ps)
+![](https://skillicons.dev/icons?i=ae)
 
 ### Frontend
 ![](https://skillicons.dev/icons?i=js)
