@@ -26,7 +26,7 @@
 | 🟨  | [Timezone Tracker][tz]     | Track your friends' timezone to see what time they're currently at     | Jun 16, 2022 |
 | 🟨  | [Biro UI][bui]             | My all-in-one home-grown design system                                 | Oct 10, 2022 |
 | 🟨  | [PWA Generator][pwa]       | A Python script for generating PWA boilerplate                         | Jan 3, 2023  |
-| 🟩  | [The Gumball API][gumball] | A fan-made API based on the show _The Amazing World of Gumball_        | Jan 19, 2023 |
+| 🟨  | [The Gumball API][gumball] | A fan-made API based on the show _The Amazing World of Gumball_        | Jan 19, 2023 |
 
 ## Tech stack
 
