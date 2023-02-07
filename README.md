@@ -15,28 +15,29 @@
 
 ## Projects
 
-> **Legend:** 🟩 Active | 🟨 On Hold
-
-|     | Project                    | Description                                                            | Date created |
-| --- | -------------------------- | ---------------------------------------------------------------------- | ------------ |
-| 🟩  | [Paco Drawing Stats][paco] | Data viz project that collects drawings from a furry artist Paco Panda | Oct 31, 2021 |
-| 🟩  | [Personal site][personal]  | Content dump site, it's bad don't visit                                | Nov 25, 2021 |
-| 🟩  | [MyFursona][mf]            | A platform where you manage and create fursonas                        | Mar 25, 2022 |
-| 🟨  | [Searchpets!][sp]          | Comic search engine for the _Housepets!_ comic                         | Mar 30, 2022 |
-| 🟨  | [Timezone Tracker][tz]     | Track your friends' timezone to see what time they're currently at     | Jun 16, 2022 |
-| 🟨  | [Biro UI][bui]             | My all-in-one home-grown design system                                 | Oct 10, 2022 |
-| 🟨  | [PWA Generator][pwa]       | A Python script for generating PWA boilerplate                         | Jan 3, 2023  |
-| 🟨  | [The Gumball API][gumball] | A fan-made API based on the show _The Amazing World of Gumball_        | Jan 19, 2023 |
+| Project                            | Description                                                            | Date created |
+| ---------------------------------- | ---------------------------------------------------------------------- | ------------ |
+| [Paco Drawing Stats][paco]         | Data viz project that collects drawings from a furry artist Paco Panda | Oct 31, 2021 |
+| [Personal site][personal]          | Content dump site, it's bad don't visit                                | Nov 25, 2021 |
+| [MyFursona][mf]                    | A platform where you manage and create fursonas                        | Mar 25, 2022 |
+| [Searchpets!][sp]                  | Comic search engine for the _Housepets!_ comic                         | Mar 30, 2022 |
+| [Timezone Tracker][tz]             | Track your friends' timezone to see what time they're currently at     | Jun 16, 2022 |
+| [Biro UI][bui]                     | My all-in-one home-grown design system                                 | Oct 10, 2022 |
+| [PWA Generator][pwa]               | A Python script for generating PWA boilerplate                         | Jan 3, 2023  |
+| [The Gumball API][gumball]         | A fan-made API based on the show _The Amazing World of Gumball_        | Jan 19, 2023 |
+| [Yet Another JSON Generator][yajg] | A WIP UI block-based JSON editor w/ customizable boilerplates          | Feb 5, 2023  |
 
 ## Tech stack
 
 ### Design
+
 ![](https://skillicons.dev/icons?i=figma)
 ![](https://skillicons.dev/icons?i=ai)
 ![](https://skillicons.dev/icons?i=ps)
 ![](https://skillicons.dev/icons?i=ae)
 
 ### Frontend
+
 ![](https://skillicons.dev/icons?i=js)
 ![](https://skillicons.dev/icons?i=ts)
 ![](https://skillicons.dev/icons?i=sass)
@@ -49,6 +50,7 @@
 ![](https://skillicons.dev/icons?i=svelte)
 
 ### Backend
+
 ![](https://skillicons.dev/icons?i=py)
 ![](https://skillicons.dev/icons?i=go)
 ![](https://skillicons.dev/icons?i=supabase)
@@ -60,6 +62,7 @@
 ![](https://skillicons.dev/icons?i=vercel)
 
 ### Tooling
+
 ![](https://skillicons.dev/icons?i=git)
 ![](https://skillicons.dev/icons?i=androidstudio)
 ![](https://skillicons.dev/icons?i=neovim)
@@ -81,3 +84,4 @@ Artwork by [@MintyChipMocha](https://www.youtube.com/@MintyChipMocha)!
 [bui]: https://github.com/kuroji-fusky/Biro-UI
 [gumball]: https://github.com/kuroji-fusky/The-Gumball-API
 [tz]: https://github.com/kuroji-fusky/timezone-tracker
+[yajg]: https://github.com/kuroji-fusky/yajg
