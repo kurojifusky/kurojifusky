@@ -13,20 +13,6 @@
 - 🎵 Produced mediocre indie music and released on Spotify and iTunes
 - ✉️ Reach me out directly by email <hello@kurofusky.xyz> or learn more from my [personal website](https://kurofusky.xyz/about)
 
-## Projects
-
-| Project                            | Description                                                            | Date created |
-| ---------------------------------- | ---------------------------------------------------------------------- | ------------ |
-| [Paco Drawing Stats][paco]         | Data viz project that collects drawings from a furry artist Paco Panda | Oct 31, 2021 |
-| [Personal site][personal]          | Content dump site, it's bad don't visit                                | Nov 25, 2021 |
-| [MyFursona][mf]                    | A platform where you manage and create fursonas                        | Mar 25, 2022 |
-| [Searchpets!][sp]                  | Comic search engine for the _Housepets!_ comic                         | Mar 30, 2022 |
-| [Timezone Tracker][tz]             | Track your friends' timezone to see what time they're currently at     | Jun 16, 2022 |
-| [Biro UI][bui]                     | My all-in-one home-grown design system                                 | Oct 10, 2022 |
-| [PWA Generator][pwa]               | A Python script for generating PWA boilerplate                         | Jan 3, 2023  |
-| [The Gumball API][gumball]         | A fan-made API based on the show _The Amazing World of Gumball_        | Jan 19, 2023 |
-| [Yet Another JSON Generator][yajg] | A WIP UI block-based JSON editor w/ customizable boilerplates          | Feb 5, 2023  |
-
 ## Tech stack
 
 ### Design
