@@ -9,7 +9,7 @@ Despite graduating high school on 2021, I currently don't have a job and I'm liv
 
 <!--- Projects --->
 [mf]: https://github.com/MyFursona-Project/MyFursona
-[paco]: https://github.com/kuroji-fusky/pandapaco-drawing-stats
+[paco]: https://github.com/kuroji-fusky/pacopanda-drawing-stats
 [tfv]: https://github.com/foxington-vault
 
 <!--- Socials --->
