@@ -1,5 +1,5 @@
 ## 🦊 About Me
-Hello, my name is Kuroji Fusky! Or just Kuro for short; I'm an independent and self-taught programmer, UI/UX designer, video editor, and retired music producer. I aws born in raised in the summer captial of the Philippines - I mostly work on my own projects just for the fun of it! I also have a decent experience in editing videos/VFX with Premiere Pro and After Effects!
+Hello, my name is Kuroji Fusky! Or just Kuro for short; I'm an independent and self-taught programmer, UI/UX designer, video editor, and retired music producer. I was born in raised in the Summer Capital of the Philippines - I mostly work on my own projects just for the fun of it! I also have a decent experience in editing videos/VFX with Premiere Pro and After Effects!
 
 Despite graduating high school on 2021, I currently don't have a job and I'm living off YouTube revenue and Ko-fi donations.
 
