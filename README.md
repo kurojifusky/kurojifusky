@@ -3,7 +3,7 @@ Hello, my name is Kuroji Fusky! Or just Kuro for short; I'm an independent and s
 
 Despite graduating high school on 2021, I currently don't have a job and I'm living off YouTube revenue and Ko-fi donations.
 
-## 🌟 Active Projects
+### 🌟 Active Projects
 - **[Paco Drawing Stats][paco]** - A data analysis project that collects and parse drawing data from an artist and illustrator Paco Panda.
 - **[MyFursona][mf]** - A WIP open source platform where users create, categorize and manage characters and manage commission queues all in one place.
 
