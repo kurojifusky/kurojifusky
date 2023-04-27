@@ -6,13 +6,9 @@ Hello, my name is Kuroji Fusky! Or just Kuro for short; I'm a 21-year-old indepe
 Despite graduating high school on 2021, I currently don't have a job and I'm living off YouTube revenue and Ko-fi donations.
 
 ### 🌟 Active Projects
-- **[Paco Drawing Stats][paco]** - A data analysis project that collects and parse drawing data from an artist and illustrator Paco Panda.
 - **[MyFursona][mf]** - A WIP open source platform where users create, categorize and manage characters and manage commission queues all in one place.
+- **[Paco Drawing Stats][paco]** - A data analysis project that collects and parse drawing data from an artist and illustrator Paco Panda.
 
 <!--- Projects --->
 [mf]: https://github.com/MyFursona-Project/MyFursona
 [paco]: https://github.com/kuroji-fusky/pacopanda-drawing-stats
-
-<!--- Socials --->
-[yt]: https://www.youtube.com/@kuroji_fusky
-[twt]: https://twitter.com/kuroji_fusky
