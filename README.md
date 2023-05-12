@@ -1,5 +1,5 @@
 <div>
-  <img width="350" align="right" src="https://res.cloudinary.com/kuroji-fusky-s3/image/upload/fursonas/comms/MintyChipMocha_orig.png">
+  <img width="325" align="right" src="https://res.cloudinary.com/kuroji-fusky-s3/image/upload/fursonas/comms/MintyChipMocha_orig.png">
 </div>
 
 I'm just some 21-year-old dumb fox-husky on the internet that writes and nerds about code as a hobby!
@@ -12,8 +12,8 @@ I'm just some 21-year-old dumb fox-husky on the internet that writes and nerds a
 - **[Biro UI Framework][bui]** - my in-house design system!
 - **Furrito** - *TBA*
 
-### Tech stack
-![](https://skillicons.dev/icons?i=js,ts,py,powershell,bash,sass,tailwind,nuxt,vue,react,next,svelte,astro,vercel,cloudflare,redis,supabase&perline=9)
+## Tech stack
+![](https://skillicons.dev/icons?i=js,ts,py,powershell,bash,sass,tailwind,nuxt,vue,react,next,svelte,astro,vercel,cloudflare,redis,supabase&perline=7)
 
 ----
 
