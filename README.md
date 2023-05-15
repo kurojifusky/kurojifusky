@@ -10,7 +10,7 @@ Hello! I'm just some 21-year-old dumb fox-husky on the internet that writes and 
 ## Side Projects
 - **[Panda Paco Drawing Stats][paco]** - A data analysis project that collects and parse drawing data from an artist and illustrator Paco Panda.
 - **[Biro UI Framework][bui]** - my in-house design system used in web projects I work with and in my videos!
-- **Furrito** - *TBA*
+- **Furrito** - Burrito your fursona or something lmao
 
 ## Tech stack
 ![](https://skillicons.dev/icons?i=js,ts,py,powershell,bash,sass,tailwind,nuxt,vue,react,next,svelte,astro,vercel,cloudflare,redis,supabase&perline=7)
