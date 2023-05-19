@@ -6,6 +6,7 @@ Hello! I'm just some 21-year-old dumb fox-husky on the internet that writes and 
 
 ## Active Projects
 - **[MyFursona][mf]** - A WIP open source platform where users create, categorize and manage characters and manage commission queues all in one place.
+- **[Searchpets!][sp]** - A search engine for the *Housepets!* comic series.
 
 ## Side Projects
 - **[Panda Paco Drawing Stats][paco]** - A data analysis project that collects and parse drawing data from an artist and illustrator Paco Panda.
@@ -13,7 +14,7 @@ Hello! I'm just some 21-year-old dumb fox-husky on the internet that writes and 
 - **Furrito** - Burrito your fursona or something lmao
 
 ## Tech stack
-![](https://skillicons.dev/icons?i=js,ts,py,powershell,bash,sass,tailwind,nuxt,vue,react,next,svelte,astro,vercel,cloudflare,redis,supabase&perline=7)
+![](https://skillicons.dev/icons?i=sass,js,ts,py,powershell,bash,tailwind,vue,nuxt,vercel,supabase&perline=6)
 
 ----
 
@@ -21,6 +22,7 @@ Artwork by [@MintyChipMocha][mcm]!
 
 <!--Projects-->
 [mf]: https://github.com/MyFursona-Project/MyFursona
+[sp]: https://github.com/openfurs/searchpets
 
 [paco]: https://github.com/kuroji-fusky/pacopanda-drawing-stats
 [bui]: https://github.com/biro-ui
