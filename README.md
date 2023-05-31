@@ -2,7 +2,7 @@
   <img width="340" align="right" src="https://res.cloudinary.com/kuroji-fusky-s3/image/upload/fursonas/comms/MintyChipMocha_orig.png">
 </div>
 
-Hello, I'm just 21-year-old self-taught hobbyist from the Philippines! Working on open source projects as for the fun of it! I go by my known online alias, Kuroji Fusky *(pronounced KOO-row-jee)*; a fox-husky hybrid character that acts as an extended part of me irl. I write terrible code, design UIs, make overedited videos, and produce mid music lol
+Hello, I'm just 21-year-old self-taught hobbyist from the Philippines! Working on open source projects just for the fun of it! I'm known online alias, Kuroji Fusky *(pronounced KOO-row-jee)*; a fox-husky hybrid character that acts as an extended part of me irl. I write terrible code, design UIs, make overedited videos, and produce mid music lol
 
 ## Active Projects
 
