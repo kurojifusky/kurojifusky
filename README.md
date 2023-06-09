@@ -2,7 +2,7 @@
   <img width="340" align="right" src="https://res.cloudinary.com/kuroji-fusky-s3/image/upload/fursonas/comms/MintyChipMocha_orig.png">
 </div>
 
-Hello, I'm just 21-year-old self-taught hobbyist from the Philippines! Working on open source projects just for the fun of it! I'm known online alias, Kuroji Fusky *(pronounced KOO-row-jee)*; a fox-husky hybrid character that acts as an extended part of me irl. I write terrible code, design UIs, make overedited videos, and produce mid music lol
+Hello, I'm just 21-year-old self-taught hobbyist from the Philippines! Working on open source projects just for the fun of it! I'm known online alias, Kuroji Fusky *(pronounced KOO-row-jee)*; a fox-husky hybrid character that acts as an extended part of me irl. I write terrible code, design UIs, make videos, and produce music lol
 
 ### Active Projects
 
@@ -14,6 +14,7 @@ Hello, I'm just 21-year-old self-taught hobbyist from the Philippines! Working o
 - **[Panda Paco Drawing Stats][paco]** - A data analysis project that collects and parse drawing data from an artist and illustrator Paco Panda.
 - **[Biro UI Framework][bui]** - my in-house design system used in web projects I work with and in my videos!
 - **Furrito** - Burrito your fursona or something lmao
+- **[FurComic][fc]** - a place to dump self-published comics from furs and a standalone site generator
 - **???** - A hobby programming language
 
 ### Tech stack
@@ -45,7 +46,8 @@ Hello, I'm just 21-year-old self-taught hobbyist from the Philippines! Working o
 Artwork by [@MintyChipMocha][mcm]!
 <!--Projects-->
 [mf]: https://github.com/MyFursona-Project/MyFursona
-[sp]: https://github.com/openfurs/searchpets
+[sp]: https://github.com/foosky-labs/searchpets
+[fc]:  https://github.com/foosky-labs/furcomic
 [paco]: https://github.com/kuroji-fusky/pacopanda-drawing-stats
 [bui]: https://github.com/biro-ui
 <!-- others -->
