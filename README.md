@@ -15,7 +15,7 @@ Hello, I'm just 21-year-old self-taught hobbyist from the Philippines! Working m
 - **???** - A hobby programming language
 
 ### Tech stack
-![](https://skillicons.dev/icons?i=sass,js,ts,py,powershell,bash,tailwind,vue,nuxt,astro,vercel,supabase&perline=6)
+![](https://skillicons.dev/icons?i=sass,js,ts,py,powershell,bash,tailwind,vue,nuxt,astro,vercel,redis,firebase,supabase&perline=7)
 
 <details>
   <summary>
