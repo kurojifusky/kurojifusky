@@ -12,7 +12,7 @@ Hello, I'm just 21-year-old self-taught hobbyist from the Philippines! Working o
 ### Side Projects
 
 - **[Panda Paco Drawing Stats][paco]** - A data analysis project that collects and parse drawing data from an artist and illustrator Paco Panda.
-- **[Biro UI Framework][bui]** - my in-house design system used in web projects I work with and in my videos!
+- **[Biro UI Framework][bui]** - my home-grown design system used in web projects I work with and in my videos!
 - **Furrito** - Burrito your fursona or something lmao
 - **[FurComic][fc]** - a place to dump self-published comics from furs and a standalone site generator
 - **???** - A hobby programming language
