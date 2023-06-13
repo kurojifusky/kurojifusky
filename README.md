@@ -35,6 +35,7 @@ Artwork credits by [@MintyChipMocha][mcm]!
   - [Spotify](https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl)
   - [Apple Music](https://music.apple.com/us/artist/kokoro-husky/1521326000)
   - [LinkedIn](https://www.linkedin.com/in/kerby-keith-aquino-434037238/)
+  - [Pinterest](https://pin.it/3QznQzb)
 
 </details>
 
