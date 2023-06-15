@@ -2,18 +2,18 @@
   <img width="350" align="right" src="https://res.cloudinary.com/kuroji-fusky-s3/image/upload/fursonas/comms/MintyChipMocha_orig.png" alt="Artwork by MintyChipMocha">
 </div>
 
-Hello! I'm just self-taught hobbyist from the Philippines! I'm working mostly on the web and Python for data science and automation.
+Hello! I'm just a self-taught hobbyist from the Philippines! I work mostly on the web and Python for data science and automation.
 
 Artwork credits by [@MintyChipMocha][mcm]!
 
 ## Projects
 
-- **[MyFursona][mf]** - A WIP open source platform where users create, categorize and manage characters and manage commission queues all in one place.
+- **[MyFursona][mf]** - A WIP open-source platform where users create, categorize, and manage characters and commission queues all in one place.
+- **[Panda Paco Drawing Stats][paco]** - A data analysis project that collects and parses drawing data from an artist and illustrator Paco Panda.
 - **[Searchpets!][sp]** - A search engine for the *Housepets!* comic series.
-- **[Panda Paco Drawing Stats][paco]** - A data analysis project that collects and parse drawing data from an artist and illustrator Paco Panda.
 - **[Biro UI Framework][bui]** - my home-grown design system used in web projects I work with and in my videos!
 - **Furrito** - Burrito your fursona or something lmao
-- **FurComic** - a place to dump self-published comics from furs and a standalone site generator (currently closed source at the moment)
+- **FurComic** - a place to dump self-published comics from furs and a standalone site generator (currently closed source)
 - **???** - A hobby programming language
 
 ### Tech stack
