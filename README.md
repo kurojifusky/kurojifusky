@@ -29,13 +29,14 @@ Artwork credits by [@MintyChipMocha][mcm]!
   - [FurAffinity](https://www.furaffinity.net/user/kokorohusky)
   - [DeviantArt](https://www.deviantart.com/soskeptically)
   - [CodePen](https://codepen.io/kurojifusky)
-  - [Twitter (no longer active)](https://twitter.com/kurojifusky)
+  - [Twitter (DMs open, but no longer active)](https://twitter.com/kurojifusky)
   - [Steam](https://steamcommunity.com/id/kuroji_husky)
   - [SoundCloud](https://soundcloud.com/kuroji-fusky)
   - [Spotify](https://open.spotify.com/artist/3fouosCOFa1ykd6j9DZkWl)
   - [Apple Music](https://music.apple.com/us/artist/kokoro-husky/1521326000)
   - [LinkedIn](https://www.linkedin.com/in/kerby-keith-aquino-434037238/)
   - [Pinterest](https://pin.it/3QznQzb)
+  - [GameJolt](https://gamejolt.com/@kurojifusky)
 
 </details>
 
@@ -43,7 +44,7 @@ Artwork credits by [@MintyChipMocha][mcm]!
 
 <div align="center">
   <p>
-    You can reach me out either on <a href="https://t.me/kurojifusky">Telegram</a> or send me an e-mail via <a href="mailto:hello@kurojifusky.com">hello@kurojifusky.com</a>. 
+    You can reach me out either on <a href="https://t.me/kurojifusky">Telegram</a>, <a href="https://twitter.com/kurojifusky">Twitter</a>, or send me an e-mail via <a href="mailto:hello@kurojifusky.com">hello@kurojifusky.com</a>. 
   </p>
   <a href="https://youtu.be/UNdad29_G20">💜</a>
   <a href="https://furry.engineer/@kurojifusky/110513620902455819">🦊</a>
