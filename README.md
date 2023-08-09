@@ -3,7 +3,7 @@
   full-stack developer — ui/ux designer — vfx artist — music producer
 </p>
 <p align="center">
-  K-pop and furries are the only things that keep me alive
+  k-pop and furries are the only things that keep me alive
 </p>
 <p align="center">
   <a href="https://kurojifusky.com"><code>🖥️ portfolio</code></a>
