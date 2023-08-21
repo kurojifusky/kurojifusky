@@ -1,6 +1,6 @@
 <h3 align="center">kuroji fusky</h3>
 <p align="center">
-  full-stack developer — ui/ux designer — vfx artist — music producer
+  a virgin full-stack developer — ui/ux designer — vfx artist — music producer
 </p>
 <p align="center">
   <a href="https://kurojifusky.com"><code>🖥️ portfolio</code></a>
