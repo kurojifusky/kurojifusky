@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="kuro_heart" width="255" src="https://github.com/kuroji-fusky/kuroji-fusky/assets/94678583/16717e0a-d7e0-4c97-8e45-da9af2214b85">
+  <img alt="kuro_heart" width="133" src="https://github.com/kuroji-fusky/kuroji-fusky/assets/94678583/16717e0a-d7e0-4c97-8e45-da9af2214b85">
 </div>
 <h3 align="center">kuroji fusky</h3>
 <p align="center">
