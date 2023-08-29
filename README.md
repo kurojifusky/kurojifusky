@@ -3,12 +3,14 @@
 </div>
 <h3 align="center">kuroji fusky</h3>
 <p align="center">
-  software engineer — ui/ux designer — vfx artist — music producer
+  Software Engineer @ <a href="https://youtu.be/r3h4DDIkBQk?t=4">Your Mom's Car</a> — UI/UX Designer — VFX Artist — Music Producer
 </p>
 <p align="center">
-  a fox-husky hybrid who admires furries and k-pop
+  a fox-husky hybrid who admires furries and K-pop
 </p>
 <p align="center">
+  <a href="https://www.youtube.com/@kurojifusky"><code>🎥 youtube</code></a>
+  &nbsp;&bull;&nbsp;
   <a href="https://kurojifusky.com"><code>🖥️ portfolio</code></a>
   &nbsp;&bull;&nbsp;
   <a href="https://blog.kurojifusky.com"><code>📚 blog</code></a>
