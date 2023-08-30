@@ -17,3 +17,7 @@
   &nbsp;&bull;&nbsp;
   <a href="https://ko-fi.com/kuroji_fusky"><code>☕ ko-fi</code></a>
 </p>
+<hr>
+<p align="center">
+  <img align="center" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroji-fusky&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&include_all_commits=true&card_width=320&hide=jupyter%20notebook,json,markdown,svg">
+</p>
