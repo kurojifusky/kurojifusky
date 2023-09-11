@@ -19,6 +19,30 @@
 </p>
 <hr>
 <p align="center">
-  <img align="center" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroji-fusky&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&include_all_commits=true&card_width=350&hide=jupyter%20notebook,json,markdown,svg">
-  <img align="center" width="470" src="https://github-readme-stats.vercel.app/api?username=kuroji-fusky&show_icons=true&hide_border=true&theme=tokyonight&locale=en&include_all_commits=true&card_width=350">
+  <picture>
+     <source
+      width="470"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroji-fusky&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&include_all_commits=true&card_width=350&hide=jupyter%20notebook,json"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      width="470"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroji-fusky&layout=compact&langs_count=10&hide_border=true&include_all_commits=true&card_width=350&hide=jupyter%20notebook,json"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroji-fusky&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&include_all_commits=true&card_width=350&hide=jupyter%20notebook,json">
+  </picture>
+  <picture>
+    <source
+      width="470"
+      src="https://github-readme-stats.vercel.app/api?username=kuroji-fusky&show_icons=true&hide_border=true&theme=tokyonight&locale=en&include_all_commits=true&card_width=350&custom_title=Kuro's%20GitHub%20Stats"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      width="470"
+      src="https://github-readme-stats.vercel.app/api?username=kuroji-fusky&show_icons=true&hide_border=true&locale=en&include_all_commits=true&card_width=350&custom_title=Kuro's%20GitHub%20Stats"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="470" src="https://github-readme-stats.vercel.app/api?username=kuroji-fusky&show_icons=true&hide_border=true&theme=tokyonight&locale=en&include_all_commits=true&card_width=350&custom_title=Kuro's%20GitHub%20Stats">
+  </picture>
 </p>
