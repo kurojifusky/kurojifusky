@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="kuro_heart" width="175" src="https://github.com/kuroji-fusky/kuroji-fusky/assets/94678583/16717e0a-d7e0-4c97-8e45-da9af2214b85">
+  <img alt="Art by DionArt on Etsy" width="200" src="https://res.cloudinary.com/kuroji-fusky-s3/image/upload/v1694681315/fursonas/comms/dionart_fusky_062af1.png">
 </div>
 <h3 align="center">Kuroji Fusky</h3>
 <p align="center">
