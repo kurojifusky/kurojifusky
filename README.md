@@ -15,7 +15,7 @@
   <a href="https://ko-fi.com/kuroji_fusky"><code>☕ ko-fi</code></a>
 </p>
 <p align="center">
-  Artwork by&nbsp;
+  Artwork by
   <a href="https://www.etsy.com/shop/DionDigitalArt">
     Dion Art
   </a>
