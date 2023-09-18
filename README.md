@@ -6,7 +6,7 @@
 - 🦊 Just an unemployed self-taught individual who enjoys making websites as a passion
 - 🔭 Currently working on [MyFursona][mf]
 - 💜 TypeScript and Tailwind CSS simp
-- 📫 You can contact on [Telegram][tme] or [through email][kemail]
+- 📫 You can contact on me on [Telegram][tme] or [through email][kemail]
 
 ### Projects
 
