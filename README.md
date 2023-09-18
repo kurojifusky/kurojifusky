@@ -21,7 +21,7 @@
 - [📚 Blog][blog]
 - [☕ Ko-fi][kofi]
 
-*Artwork by [Dion Art](https://www.etsy.com/shop/DionDigitalArt) on Etsy*
+*Artwork commissioned from [Dion Art](https://www.etsy.com/shop/DionDigitalArt) on Etsy*
 
 [mf]: https://github.com/MyFursona-Project/MyFursona
 [paco]: https://github.com/kuroji-fusky/pacopanda-drawing-stats
