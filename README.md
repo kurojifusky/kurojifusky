@@ -3,13 +3,16 @@
   <h2>About me</h2>
 </div>
 
-- 🦊 Just an unemployed self-taught individual who enjoys making websites as a passion
+- 🦊 Just a 21-year-old unemployed self-taught individual who enjoys writing and designing websites as a passion
+- 👨‍💻 Decent experience with TypeScript, Next.js, and Nuxt, as well as Python for automation, web scraping, and data science
 - 🔭 Currently working on [MyFursona][mf]
-- 💜 TypeScript and Tailwind CSS simp
+- ⚡ Addicted to TypeScript and Tailwind CSS
+- 💜 Heavy K-pop listener (mainly BTS, NCT, ATEEZ, and SEVENTEEN)
 - 📫 You can contact on me on [Telegram][tme] or [through email][kemail]
 
 ### Projects
 
+- [**kurojifusky.com**][pnb] - personal portfolio written in Nuxt 3, GSAP, and Three.js (under construction)
 - [**MyFursona**][mf] - a social art platform to keep track of commissions, and adopts
 - [**Paco Drawing Stats**][paco] - a data viz project that parses drawing data from Paco Panda
 - [**Betsy**][betsy] - a browser extension that extends functionality when browsing Etsy
@@ -17,7 +20,7 @@
 
 ### Cool links and stuff
 
-- [🖥️ Portfolio][portfolio]
+- [🖥️ Portfolio][portfolio] (under construction)
 - [📚 Blog][blog]
 - [☕ Ko-fi][kofi]
 
@@ -27,6 +30,7 @@
 [paco]: https://github.com/kuroji-fusky/pacopanda-drawing-stats
 [betsy]: https://github.com/kuroji-fusky/betsy
 [sp]: https://github.com/foosky-labs/searchpets
+[pnb]: https://github.com/kuroji-fusky/kurojifusky.com
 
 [tme]: https://t.me/kurojifusky
 [kemail]: mailto:hello@kurojifusky.com
