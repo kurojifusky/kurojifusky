@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td align="right">Languages</td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,py" height="35px"/></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,py,bash,powershell" height="35px"/></td>
   </tr>
   <tr>
     <td align="right">Front-end</td>
@@ -66,11 +66,11 @@
   </tr>
   <tr>
     <td align="right">Back-end</td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,docker,redis" height="35px"/></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,docker,redis,vercel,cloudflare" height="35px"/></td>
   </tr>
   <tr>
-    <td align="right">Miscellaneous</td>
-    <td><img src="https://skillicons.dev/icons?i=linux,bash,powershell,markdown,neovim,vscode" height="35px"/></td>
+    <td align="right">Tooling</td>
+    <td><img src="https://skillicons.dev/icons?i=linux,neovim,vscode" height="35px"/></td>
   </tr>
   <tr>
     <td align="right">Design</td>
