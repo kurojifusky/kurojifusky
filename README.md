@@ -8,9 +8,10 @@
 - 🔭 Currently working on [MyFursona][mf] and [Betsy][betsy]
 - ⚡ Addicted to TypeScript and Tailwind CSS
 - 💜 Heavy K-pop listener
-- 📫 You can contact on me on [Telegram][tme] or [through email][kemail]
+- 📫 You can contact on me on [Telegram][tme] or [through email][email]
 
-### Projects
+<details>
+<summary><h3>Projects</h3></summary>
 
 - [**kurojifusky.com**][pnb] - personal portfolio written in Nuxt 3, GSAP, and Three.js (under construction)
 - [**MyFursona**][mf] - a social art platform to keep track of commissions, and adopts
@@ -18,11 +19,15 @@
 - [**Betsy**][betsy] - a browser extension for Chrome and Firefox that extends functionality when browsing Etsy
 - [**Searchpets!**][sp] - a search engine to filter and query comic strips from *Housepets!*
 
-### Cool links and stuff
+</details>
+<details>
+<summary><h3>Cool links and stuff</h3></summary>
 
 - [🖥️ Portfolio][portfolio] (under construction)
 - [📚 Blog][blog]
 - [☕ Ko-fi][kofi]
+
+</details>
 
 *Artwork commissioned from [Dion Art](https://www.etsy.com/shop/DionDigitalArt) on Etsy*
 
