@@ -4,7 +4,7 @@
 </div>
 
 - 🦊 Just a 21-year-old unemployed self-taught individual who enjoys writing and designing websites as a passion
-- 👨‍💻 Decent experience with TypeScript, Next.js, and Nuxt, as well as Python for automation, web scraping, and data science
+- 👨‍💻 Decent experience with TypeScript, React/Next.js, and Vue 3/Nuxt, as well as Python for automation, web scraping, and data science
 - 🔭 Currently working on [MyFursona][mf] and [Betsy][betsy]
 - ⚡ Addicted to TypeScript and Tailwind CSS
 - 💜 Heavy K-pop listener
