@@ -10,7 +10,7 @@
 - 🔭 Currently working on [MyFursona][mf] and [Betsy][betsy]
 - ⚡ Addicted to TypeScript and Tailwind CSS
 - 💜 Heavy K-pop listener
-- 📫 You can contact on me on [Telegram][tme] or [through email][email]!
+- 📫 You can contact on me on [Telegram][tme] or [through email][kemail]!
 
 </div>
 
