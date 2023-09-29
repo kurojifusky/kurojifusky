@@ -1,5 +1,5 @@
 <div>
-<img align="right" alt="Art by Dion Art on Etsy" width="235" src="https://res.cloudinary.com/kuroji-fusky-s3/image/upload/fursonas/comms/dionart_fusky_062af1.png">
+<img align="right" alt="Art by Dion Art on Etsy" width="215" src="https://res.cloudinary.com/kuroji-fusky-s3/image/upload/fursonas/comms/dionart_fusky_062af1.png">
 
 <!-- About me -->
 
