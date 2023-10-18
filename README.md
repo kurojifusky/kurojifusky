@@ -8,7 +8,6 @@
 - 🔧 Comfortable with TypeScript, React/Next.js, Vue 3/Nuxt, and Python for automation, web scraping, and data science
 - 🔭 Currently working on [MyFursona][mf]
 - ⚡ TypeScript and Tailwind CSS addict
-- 💜 Heavy K-pop listener
 - 📫 You can contact on me on [Telegram][tme] or [through email][kemail]!
 
 </div>
