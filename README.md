@@ -5,12 +5,14 @@
 
 - 🦊 I'm a 21-year-old unemployed self-taught individual who enjoys writing code and designing websites as a passion
 - 🧪 Experimenting with videos by incorporating technologies such as React and Python, and professional video editing tools like Premiere Pro and After Effects
-- 🔧 Comfortable with TypeScript, React/Next.js, Vue 3/Nuxt, and Python for automation, web scraping, and data science
+- 🔧 Comfortable with TypeScript and Python
 - 🔭 Currently working on [MyFursona][mf]
 - ⚡ TypeScript and Tailwind CSS addict
 - 📫 You can contact on me on [Telegram][tme] or [through email][kemail]!
 
 </div>
+
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroji-fusky&layout=compact&theme=tokyonight&langs_count=7&hide_border=true&card_width=333&hide=json,markdown,mdx">
 
 *Artwork commissioned from [Dion Art](https://www.etsy.com/shop/DionDigitalArt) on Etsy*
 
