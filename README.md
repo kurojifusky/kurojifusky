@@ -4,8 +4,7 @@
 <!-- About me -->
 
 - 🦊 I'm a 21-year-old unemployed self-taught individual who enjoys writing code and designing websites as a passion
-- 🧪 Experimenting with videos by incorporating technologies such as React and Python, and professional video editing tools like Premiere Pro and After Effects
-- 🔧 Comfortable with TypeScript and Python
+- 🔧 Comfortable with TypeScript and Python; I use React/Next.js and Svelte as my go-to frameworks, I previously worked with the Vue/Nuxt ecosystem
 - 🔭 Currently working on [MyFursona][mf]
 - ⚡ TypeScript and Tailwind CSS addict
 - 📫 You can contact on me on [Telegram][tme] or [through email][kemail]!
