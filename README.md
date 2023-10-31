@@ -12,7 +12,7 @@
 
 </div>
 
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroji-fusky&layout=compact&theme=tokyonight&langs_count=7&hide_border=true&card_width=333&hide=json,markdown,mdx">
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroji-fusky&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&card_width=333&hide=json,markdown,mdx">
 
 *Artwork commissioned from [Dion Art](https://www.etsy.com/shop/DionDigitalArt) on Etsy*
 
