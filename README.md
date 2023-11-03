@@ -9,11 +9,6 @@
 - ⚡ TypeScript and Tailwind CSS addict
 - 📫 You can contact on me on [Telegram][tme] or [through email][kemail]!
 
-<br />
-<br />
-<br />
-<br />
-
 *Artwork commissioned from [Dion Art](https://www.etsy.com/shop/DionDigitalArt) on Etsy*
 
 ----
