@@ -1,6 +1,6 @@
 <!-- About me -->
 
-# About me
+## About me
 
 - 👨‍💻 I'm a 21-year-old unemployed self-taught individual who enjoys writing code and designing websites as a passion
 - 🦊 My character is a [fox-husky hybrid](https://furry.engineer/@kurojifusky/110513620902455819)
