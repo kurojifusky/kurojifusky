@@ -1,7 +1,6 @@
-<div>
-<img align="right" alt="Art by Dion Art on Etsy" width="220" src="https://res.cloudinary.com/kuroji-fusky-s3/image/upload/fursonas/comms/dionart_fusky_062af1.png">
-
 <!-- About me -->
+
+# About me
 
 - 👨‍💻 I'm a 21-year-old unemployed self-taught individual who enjoys writing code and designing websites as a passion
 - 🦊 My character is a [fox-husky hybrid](https://furry.engineer/@kurojifusky/110513620902455819)
@@ -10,8 +9,8 @@
 - ⚡ TypeScript and Tailwind CSS addict
 - 📫 You can contact on me on [Telegram][tme] or [through email][kemail]!
 
-</div>
-
+<br />
+<br />
 <br />
 <br />
 
