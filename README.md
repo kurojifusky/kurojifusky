@@ -6,10 +6,31 @@
 
 - 👨‍💻 I'm a 21-year-old unemployed self-taught individual who enjoys writing code and designing websites as a passion
 - 🦊 My character is a [fox-husky hybrid](https://furry.engineer/@kurojifusky/110513620902455819)
-- 🔧 I work with JavaScript, TypeScript, and Python; I primarily use React/Next.js and Svelte as my go-to frameworks, I previously worked with the Vue/Nuxt ecosystem
 - 🔭 Currently working on videos and [Paco Drawing Stats][paco]
-- ⚡ TypeScript and Tailwind CSS addict
 - 📫 You can contact on me on [Telegram][tme] or [through email][kemail]!
+
+### Technologies I use
+![](https://skillicons.dev/icons?i=pr)
+![](https://skillicons.dev/icons?i=ae)
+![](https://skillicons.dev/icons?i=ps)
+![](https://skillicons.dev/icons?i=ai)
+![](https://skillicons.dev/icons?i=figma)
+![](https://skillicons.dev/icons?i=powershell)
+![](https://skillicons.dev/icons?i=bash)
+![](https://skillicons.dev/icons?i=js)
+![](https://skillicons.dev/icons?i=ts)
+![](https://skillicons.dev/icons?i=py)
+![](https://skillicons.dev/icons?i=cpp)
+![](https://skillicons.dev/icons?i=sass)
+![](https://skillicons.dev/icons?i=tailwind)
+![](https://skillicons.dev/icons?i=vue)
+![](https://skillicons.dev/icons?i=nuxt)
+![](https://skillicons.dev/icons?i=react)
+![](https://skillicons.dev/icons?i=nextjs)
+![](https://skillicons.dev/icons?i=astro)
+![](https://skillicons.dev/icons?i=cloudflare)
+![](https://skillicons.dev/icons?i=redis)
+![](https://skillicons.dev/icons?i=vercel)
 
 *Artwork commissioned from [Dion Art](https://www.etsy.com/shop/DionDigitalArt) on Etsy*
 
