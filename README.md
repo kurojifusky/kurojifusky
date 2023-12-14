@@ -1,12 +1,11 @@
 <div>
   
-<img align="right" alt="Art by Dion Art on Etsy" width="200" src="https://res.cloudinary.com/kuroji-fusky-s3/image/upload/fursonas/comms/dionart_fusky_062af1.png">
+<img align="right" alt="" width="340" src="https://res.cloudinary.com/kuroji-fusky-s3/image/upload/w_500/fursonas/comms/Thighhighsfunky.png">
 
 ## About me
 
 - 👨‍💻 I'm a 21-year-old unemployed self-taught individual who enjoys writing code and designing websites as a passion
 - 🦊 My character is a [fox-husky hybrid](https://furry.engineer/@kurojifusky/110513620902455819)
-- 🔭 Currently working on videos and [Paco Drawing Stats][paco]
 - 📫 You can contact on me on [Telegram][tme] or [through email][kemail]!
 
 ### Technologies I use
@@ -33,8 +32,6 @@
 ![](https://skillicons.dev/icons?i=cloudflare)
 ![](https://skillicons.dev/icons?i=redis)
 ![](https://skillicons.dev/icons?i=vercel)
-
-*Artwork commissioned from [Dion Art](https://www.etsy.com/shop/DionDigitalArt) on Etsy*
 
 </div>
 
