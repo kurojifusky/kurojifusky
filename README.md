@@ -5,7 +5,9 @@
   &bull;
   <span>Fox-husky hybrid</span>
   &bull;
-  <span>Software developer</span>
+  <span>React/Vue developer</span>
+  &bull;
+  <span>Software engineer</span>
   &bull;
   <span>Video editor/VFX Artist</span>
   &bull;
