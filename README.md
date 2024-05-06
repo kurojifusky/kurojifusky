@@ -1,25 +1,12 @@
-<div align="center">
-  <span>21</span>
-  &bull;
-  <span>🇵🇭</span>
-  &bull;
-  <span>Fox-husky hybrid</span>
-  &bull;
-  <span>React/Vue developer</span>
-  &bull;
-  <span>Software engineer</span>
-  &bull;
-  <span>Video editor/VFX Artist</span>
-  &bull;
-  <span>3D Animator</span>
-</div>
-<br />
-<div align="center">
-  <a href="https://www.youtube.com/@kurojifusky" title="YouTube">🎞️</a>
-  &bull;
-  <a href="https://fusky.pet/" title="Portfolio">🦊</a>
-  &bull;
-  <a href="https://blog.fusky.pet/" title="Blog">📕</a>
-  &bull;
-  <a href="https://linktr.ee/kurojifusky" title="Links">🔗</a>
-</div>
+Hello! I'm a 22-year-old self-taught hobbyist in the Philippines. I'm a life-long Windows user for the better part of 2 decades or so, and I'm taking a plunge to the Linux ecosystem... I dunno.
+
+## Notable work
+
+- [MyArtverse][mav]
+- [Majira Strawberry Theme for VS Code][msvsc] ([Download][msvsm])
+- [Paco Panda Drawing Stats][pds]
+
+[mav]: https://github.com/MyArtverse-Project/MyArtverse
+[msvsc]: https://github.com/kurojifusky/majira-strawberry-vscode-theme
+[msvsm]: https://marketplace.visualstudio.com/items?itemName=KurojiFusky.majira-strawberry-vscode
+[pds]: https://github.com/kurojifusky/pacopanda-drawing-stats
