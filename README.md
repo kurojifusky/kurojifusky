@@ -9,7 +9,7 @@ Hello! I'm a 22-year-old self-taught hobbyist in the Philippines. I do full-stac
 
 ### "Yeah, I put stats on my README to prove that I'm a virgin"
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurojifusky&layout=compact&theme=dark&langs_count=10&hide_border=true&include_all_commits=true&card_width=375&hide=json" width="410">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurojifusky&layout=compact&theme=dark&langs_count=10&hide_border=true&include_all_commits=true&card_width=375&hide=json,css,html" width="410">
 
 [mav]: https://github.com/MyArtverse-Project/MyArtverse
 [sp]: https://github.com/fusky-labs/searchpets
