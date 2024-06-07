@@ -6,7 +6,7 @@ Hello! I'm a 22-year-old self-taught hobbyist in the Philippines. I do full-stac
 - [MyArtverse][mav] — an art platform for artists and users with amazing UI
 - [Paco Panda Drawing Stats][pds] — a data analysis project
 - [Searchpets!][sp] — a search engine for searching comic strips in *Housepets!*
-- [SponsorExplorer][se] — a modern rewrite of Lanrza's [SBbrowser][sbb]; browsing SponsorBlock segments
+- [SponsorExplorer][se] — a modern rewrite of Lanrza's [SBbrowser][sbb] frontend; browsing SponsorBlock segments
 
 ### "Yeah, I put stats on my README to prove that I'm a virgin"
 
